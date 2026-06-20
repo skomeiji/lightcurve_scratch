@@ -25,7 +25,7 @@ def get_lightcurve_periodogram(
     lc = lc.remove_nans().normalize()
 
     # No minimum_period, maximum_period, minimum_frequency, or maximum_frequency
-    pg = lc.to_periodogram()
+    pg = lc.to_periodogram(normalization="amplitude")
 
     return lc, pg
 
