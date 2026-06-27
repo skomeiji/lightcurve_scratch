@@ -1,0 +1,873 @@
+Target,TIC,Author,Sector,Temperature,Plx,Gmag,BP-RP,Type,Spectral Type,Lightcurve Notes
+MWC 758,73816033,SPOC,71,7314,6.4157,8.220417,0.424628,Herbig Ae/Be Star,A8,"Amplitude ~10%, pulsations at higher frequencies 15-40 d^-1"
+DM Tau,61259576,SPOC,43,3897,6.9421,13.095755,2.028674,Orion Variable,M2,"Amplitude ~10%, jagged structure with sharp peaks/troughs"
+DM Tau,61259576,SPOC,44,3897,6.9421,13.095755,2.028674,Orion Variable,M2,"Amplitude ~13%, jagged structure with sharp peaks/troughs, smoother for smaller frequncies"
+DM Tau,61259576,SPOC,70,3897,6.9421,13.095755,2.028674,Orion Variable,M2,"Amplitude ~7%, jagged structure with sharp peaks/troughs"
+DM Tau,61259576,SPOC,71,3897,6.9421,13.095755,2.028674,Orion Variable,M2,"Amplitude ~ 5%, jagged structure with sharp peaks/troughs, amplitude increases with time"
+AA Tau,268510757,SPOC,43,3783,7.4255,14.42295,2.543629,Orion Variable,K5,"Amplitude ~15%, many substructures, sharp peaks"
+AA Tau,268510757,SPOC,44,3783,7.4255,14.42295,2.543629,Orion Variable,K5,"Amplitude ~15%, greater small variability, sharp peaks"
+AA Tau,268510757,SPOC,70,3783,7.4255,14.42295,2.543629,Orion Variable,K5,"Bigger amplitude ~40%, smaller amplitude ~ 5%, smooth curves, many spikes"
+AA Tau,268510757,SPOC,71,3783,7.4255,14.42295,2.543629,Orion Variable,K5,"Bigger amplitude ~50%, smaller amplitude ~20%, smooth curves, some small spikes"
+LkCa 15,118681038,SPOC,43,4194,6.3619,11.591105,1.63856,Orion Variable,K5,"Dipper? troughs at ~25% and ~50%, really jagged"
+LkCa 15,118681038,SPOC,44,4194,6.3619,11.591105,1.63856,Orion Variable,K5,"Dipper? troughs at ~25% and ~50%, really jagged + spike"
+LkCa 15,118681038,SPOC,70,4194,6.3619,11.591105,1.63856,Orion Variable,K5,"Dipper? troughs at ~25%, really jagged"
+LkCa 15,118681038,SPOC,71,4194,6.3619,11.591105,1.63856,Orion Variable,K5,"Dipper? troughs at varying depths ~10-40%, jagged"
+HD 38242,100479228,QLP,5,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2%, more spaced out spikes"
+HD 38242,100479228,QLP,6,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2% with increasing big structure, more spaced out spikes"
+HD 38242,100479228,QLP,32,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2% with decreasing big structure, more spaced out spikes"
+HD 38242,100479228,QLP,33,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2% with sinusoidal big structure, more spaced out spikes"
+HD 38242,100479228,QLP,87,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2% with sinusoidal big structure, scrunched"
+HD 38242,100479228,QLP,98,4744,3.3299,7.98784,1.244267,Star,K1,"Varying amplitudes < 0.2% with decreasing big structure, more spaced out spikes + scrunch"
+CQ Tau,74632969,SPOC,43,4980,6.6946,10.228766,1.158207,Herbig Ae/Be,F5,"Varying troughs up to ~50%, pointed, aperiodic"
+CQ Tau,74632969,SPOC,44,4980,6.6946,10.228766,1.158207,Herbig Ae/Be,F5,"Varying troughs up to ~60%, smoother, aperiodic"
+CQ Tau,74632969,SPOC,45,4980,6.6946,10.228766,1.158207,Herbig Ae/Be,F5,"Varying troughs up to ~40%, smoother, aperiodic"
+CQ Tau,74632969,SPOC,71,4980,6.6946,10.228766,1.158207,Herbig Ae/Be,F5,"Varying troughs up to ~60%, smoother, aperiodic"
+CQ Tau,74632969,SPOC,72,4980,6.6946,10.228766,1.158207,Herbig Ae/Be,F5,"Varying troughs up to ~60%, smoother, aperiodic"
+Sy Cha,394816720,SPOC,93,4224,5.533,12.537558,1.95875,Orion Variable,K5,"Amplitude ~20%, smooth bumps with sharp valleys, mini curves"
+Sy Cha,394816720,TESS-SPOC,66,4224,5.533,12.537558,1.95875,Orion Variable,K5,Amplitude ~20% with blips in increase on one bump
+PDS 66,339812943,SPOC,11,4593,10.2152,9.972893,1.309107,T Tauri,K1,"Amplitude ~3%, relatively smooth, many spikes, peak power at ~0.5"
+PDS 66,339812943,SPOC,12,4593,10.2152,9.972893,1.309107,T Tauri,K1,"Amplitude ~4%, relatively smooth, many spikes, peak power at ~0.5"
+PDS 66,339812943,SPOC,38,4593,10.2152,9.972893,1.309107,T Tauri,K1,"Amplitude ~5%, many spikes, peak power at ~0.5, pointed humps"
+PDS 66,339812943,SPOC,100,4593,10.2152,9.972893,1.309107,T Tauri,K1,"Amplitude < 2%, very jagged, peak power at ~0.5"
+HD 135344B,307602388,SPOC,11,9154,7.4074,8.514243,0.721951,Orion Variable,F2,"Bigger amplitude ~1%, smaller amplitude ~0.2%, periodogram has higher fre (~75)"
+HD 135344B,307602388,SPOC,65,9154,7.4074,8.514243,0.721951,Orion Variable,F2,"Relatively flat with ~3% dips, periodogram has higher freq (~75%)"
+HD 135344B,307602388,TESS-SPOC,11,9154,7.4074,8.514243,0.721951,Orion Variable,F2,"Amplitude ~1%, jagged, thinner, periodogram is sinusoidal"
+HD 135344B,307602388,TESS-SPOC,38,9154,7.4074,8.514243,0.721951,Orion Variable,F2,"Amplitude ~0.2%, spikes in periodogram at ~60 and 70"
+HD 135344B,307602388,TESS-SPOC,65,9154,7.4074,8.514243,0.721951,Orion Variable,F2,"Amplitude ~0.2% with 1% spikes, spikes in periodogram at ~60 and 71"
+RX J1604.3-2130,,,,,,,,,,
+WRAY 15-1443,95977956,SPOC,12,4343,6.4274,11.494051,1.561641,T Tauri,K5,"Amplitude ~5%, big spike, moving smaller dip"
+WRAY 15-1443,95977956,TESS-SPOC,12,4343,6.4274,11.494051,1.561641,T Tauri,K5,"Dips ~5%, big spike, moving smaller dip"
+WRAY 15-1443,95977956,TESS-SPOC,65,4343,6.4274,11.494051,1.561641,T Tauri,K5,"Big amplitude ~4%, small amplitude ~0.5%, some jagged troughs"
+V4046Sgr,60068392,SPOC,13,4271,13.9893,9.927611,1.517727,Spectroscopic Binary,K5+K7,"Amplitude ~2.5%, moving bump, many spikes"
+V4046Sgr,60068392,SPOC,66,4271,13.9893,9.927611,1.517727,Spectroscopic Binary,K5+K7,"Amplitude ~2.5%, moving bump, spikes, jagged"
+V4046Sgr,60068392,SPOC,91,4271,13.9893,9.927611,1.517727,Spectroscopic Binary,K5+K7,"Amplitude ~2%, many spikes, jagged"
+V4046Sgr,60068392,SPOC,92,4271,13.9893,9.927611,1.517727,Spectroscopic Binary,K5+K7,"Amplitude ~2%, many spikes (+massive one), jagged"
+V4046Sgr,60068392,SPOC,93,4271,13.9893,9.927611,1.517727,Spectroscopic Binary,K5+K7,"Amplitude ~1.5%, many spikes (+massive one), jagged"
+WRAY 15-1880,391106960,SPOC,94,4289,6.6212,11.720253,1.528785,T Tauri,K2,"Dips ~5-10%, goes up, big spikes, jagged"
+WRAY 15-1880,391106960,TESS-SPOC,13,4289,6.6212,11.720253,1.528785,T Tauri,K2,"Dipper?  Dips periodically ~25-35%, jagged, periodogram peaks at ~0.5"
+IRAS 18489-3703,253812994,SPOC,94,4365,6.7986,11.715565,1.49406,T Tauri,K7,"Amplitude ~4%, thicker, smooth, flattened light curve is linear"
+IRAS 18489-3703,253812994,QLP,94,4365,6.7986,11.715565,1.49406,T Tauri,K7,"Amplitude ~4%, smooth, big drops at beginning, small spikes"
+IRAS 18489-3703,253812994,QLP,67,4365,6.7986,11.715565,1.49406,T Tauri,K7,"Amplitude ~4%, second hump moving, many spikes"
+HT Lup,99039842,SPOC,12,4506,6.5157,9.766766,1.620743,Orion Variable,K3,"Amplitude ~10%, moving second hump, pointed, three distinct spikes in periodogram 0-1"
+HT Lup,99039842,SPOC,38,4506,6.5157,9.766766,1.620743,Orion Variable,K3,"Amplitude ~15%, moving second hump, pointed, two distinct spikes in periodogram 0-2"
+HT Lup,99039842,SPOC,65,4506,6.5157,9.766766,1.620743,Orion Variable,K3,"Amplitude ~ 4%, periodic dips, jags near or at peaks"
+GW Lup,99211574,SPOC,12,3751,6.4432,13.097024,2.375441,Orion Variable,M1,"Amplitude ~15%, decreasing amplitude, pointed"
+GW Lup,99211574,SPOC,65,3751,6.4432,13.097024,2.375441,Orion Variable,M1,"Amplitude ~1%, giant spike, periodic at beginning"
+IM Lup,364203272,SPOC,12,4144,6.4175,11.186081,1.774526,Orion Variable,M0,"Amplitude ~15%, maybe moving hump? smooth"
+IM Lup,364203272,TESS-SPOC,12,4144,6.4175,11.186081,1.774526,Orion Variable,M0,"Varying dips < 30%, smooth, thin"
+IM Lup,364203272,TESS-SPOC,65,4144,6.4175,11.186081,1.774526,Orion Variable,M0,"Amplitude ~ 10%, jagged, overall increasing, many spikes"
+WRAY 15-1400,279883855,SPOC,12,4018,6.2449,12.365674,1.887134,T Tauri,K7,"Amplitude ~10%, big dip at the end, smooth portions and jagged portions"
+WRAY 15-1400,279883855,SPOC,39,4018,6.2449,12.365674,1.887134,T Tauri,K7,"Amplitude ~10%, jagged, smaller structures with wide spikes"
+WRAY 15-1400,279883855,TESS-SPOC,12,4018,6.2449,12.365674,1.887134,T Tauri,K7,"Amplitude ~10%, big dip at the end, smooth portions and jagged portions, thinner"
+WRAY 15-1400,279883855,TESS-SPOC,39,4018,6.2449,12.365674,1.887134,T Tauri,K7,"Amplitude ~10%, very jagged, smaller structures with wide spikes"
+MY Lup,255464386,SPOC,12,4620,6.363,11.112859,1.454717,T Tauri,K0,"Dips ~40% with initial dip of ~60%, moving hump, periodogram peaks at 0.5"
+MY Lup,255464386,SPOC,65,4620,6.363,11.112859,1.454717,T Tauri,K0,"Dips of ~20% and 40% (not regular), three spikes on periodogram in 0-1"
+MY Lup,255464386,TESS-SPOC,12,4620,6.363,11.112859,1.454717,T Tauri,K0,"Dips ~40% with initial dip of ~60%, moving hump, wider with time"
+MY Lup,255464386,TESS-SPOC,65,4620,6.363,11.112859,1.454717,T Tauri,K0,"Dips of ~20% and 40% (not regular), three spikes on periodogram in 0-1"
+HD 142666,220764844,,,6072,6.8375,8.586451,0.764117,T Tauri,F0,
+HD 143006,12658445,SPOC,91,5720,5.9759,9.889212,1.088434,Orion Variable,G5,"Amplitude ~0.5% with smaller wiggles at later times, big spikes"
+HD 143006,12658445,QLP,91,5720,5.9759,9.889212,1.088434,Orion Variable,G5,"Amplitude ~0.5% with smaller wiggles at later times, big spikes/loses periodicity at later times"
+V866 Sco,49165951,SPOC,91,5405*,0.5416,19.270676,1.741322,T Tauri,K0+K5,Decreasing sinusoidal structure with many dips (~5-10%)
+V866 Sco,49165951,QLP,91,,0.5416,19.270676,1.741322,T Tauri,K0+K5,"Decreasing sinusoidal structure with many dips (~5-10%), jagged"
+SR 4,98689015,SPOC,91,3318*,7.4208,11.87469,2.109507,Orion Variable,K0,"Drops/inclines ~5% or 10%, very jagged, sharp turns"
+SR 4,98689015,QLP,91,,7.4208,11.87469,2.109507,Orion Variable,K0,"Drops/inclines ~5% or 10%, very jagged, sharp turns"
+Elia 2-20,399155550,,,,7.2713,18.020058,4.270687,T Tauri,,
+DoAr 25,399155492,SPOC,91,3479,7.2379,12.765257,2.583235,T Tauri,K5,"Relatively stable with occasional drops by 5% or 15%, periodogram has two humps in 0-1.5, spikes"
+DoAr 25,399155492,QLP,91,3479,7.2379,12.765257,2.583235,T Tauri,K5,"Relatively stable with occasional drops by 5% or 15%, periodogram has two humps in 0-1.5, spikes"
+Elia 2-24,399155591,SPOC,91,4483,7.1809,15.88337,4.106193,T Tauri,K6,"Amplitude ~10%, smooth, thick"
+Elia 2-27,175596953,,,,9.0853,20.303087,2.8078,Orion Variable,M0,
+DoAr 33,175744072,SPOC,91,3431,7.0646,13.256007,2.655465,T Tauri,K4,"Amplitude ~15%, many smaller bumps and spikes"
+DoAr 33,175744072,QLP,91,3431,7.0646,13.256007,2.655465,T Tauri,K4,"Amplitude ~15%, many smaller bumps and spikes (potentially two flares in a row)"
+ROX 27,175743629,SPOC,91,3469,7.3925,15.308198,3.611453,T Tauri,M0+M4,"Amplitude ~10%, bumpy second half, thick"
+Hen 3-1258,12520666,SPOC,91,5124,8.1615,12.136793,2.471847,Orion Variable,K6,"Amplitude ~4%, sharp peaks generally w/ round troughs"
+Hen 3-1258,12520666,QLP,91,5124,8.1615,12.136793,2.471847,Orion Variable,K6,"Amplitude ~4%, sharp peaks generally w/ round troughs, few smaller spikes"
+AS 209,398865485,SPOC,91,3887,8.2477,10.984993,1.983294,T Tauri,K4,"Amplitude < 5%, sharp peaks with rounder troughs, many spikes"
+AS 209,398865485,QLP,91,3887,8.2477,10.984993,1.983294,T Tauri,K4,"Amplitude < 5%, sharp peaks with rounder troughs, many spikes"
+HD 163296,105083750,SPOC,91,8291,9.9043,6.844196,0.206717,Herbig Ae/Be,A3,"Amplitdue ~1% with 2% dips/jumps, very sharp, periodogram peaks at ~0.5"
+HD 163296,105083750,SPOC,92,8291,9.9043,6.844196,0.206717,Herbig Ae/Be,A3,"Amplitude ~1% with 2% dips/jumps, begins w/ downward slope"
+HD 163296,105083750,QLP,91,8291,9.9043,6.844196,0.206717,Herbig Ae/Be,A3,"Amplitdue ~1% with 2% dips/jumps, very sharp, periodogram peaks at ~0.5"
+HD 163296,105083750,QLP,92,8291,9.9043,6.844196,0.206717,Herbig Ae/Be,A3,"Amplitude ~1% with 2% dips/jumps, begins w/ downward slope"
+V1493 Cyg,356774444,QLP,15,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitude ~8%, pulsations at 10-20 d^-1, HR diagram seems off"
+V1493 Cyg,356774444,QLP,55,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitude ~2%, increasing overall shape"
+V1493 Cyg,356774444,QLP,56,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitude ~2%, no high freq pulsations"
+V1493 Cyg,356774444,QLP,75,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitude ~2%, increasing overall shape, small humps"
+V1493 Cyg,356774444,QLP,76,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitude ~2%, aperiodic, 6% jump at 3370 days"
+V1493 Cyg,356774444,QLP,82,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Amplitudy ~5%, constantly changing bumps but smooth"
+V1493 Cyg,356774444,QLP,83,6266,0.8711,13.854384,2.867869,Herbig Ae/Be,A1,"Sharp 20% dip, ~5% amplitude, many shorter dips"
+LkHa 259,265464119,QLP,17,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~6%, jagged, spike in periodogram at 3.1 and later, check HR diagram?"
+LkHa 259,265464119,QLP,18,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~7%, jagged, spike in periodogram at 0.5 and 3.1"
+LkHa 259,265464119,QLP,24,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~4%, jagged, periodogram peaks at 3.1 and later, smaller dips at later times"
+LkHa 259,265464119,QLP,58,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~4%, Gaussian filter cannt remove, peak at 3.1 in periodogram, sinusoidal high-pass filter"
+LkHa 259,265464119,QLP,77,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Last part has amplitude ~4%, beggining is very jagged shape, peak in periodogram at 3.1 and 5.5"
+LkHa 259,265464119,QLP,78,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~4% with smaller amplitude 2%, spikes, periodogram spikes at 3.1 and 5.5"
+LkHa 259,265464119,QLP,85,3881,1.3821,14.236583,2.63106,Herbig Ae/Be,A9,"Amplitude ~0.75% with smaller amplitude 0.25%, periodogram spikes at 3.1, 5.5, and 12.5"
+PDS 520,404752671,SPOC,80,8051,2.6102,14.239171,2.713439,Orion Variable,F3,"Amplitude ~15%, many many spikes, flat-ish periodogram at 1-2"
+PDS 389,455264232,QLP,12,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Amplitude ~0.75%, but very bumpy, filter has difficult time matching general shape"
+PDS 389,455264232,QLP,38,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Amplitude ~0.5%, tiny spike in periodogram at 2.5, amplitude decreases with time"
+PDS 389,455264232,QLP,39,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Amplitude ~0.5%, difficult to see general shape\"
+PDS 389,455264232,QLP,65,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Amplitude ~2%, sharper peaks, quick drop in periodogram"
+PDS 389,455264232,QLP,99,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Decreases total of 4% then jumps back up, slight spikes in higher frequencies"
+PDS 389,455264232,QLP,100,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Decreases total of 5% then jumps back up, slight spikes in higher frequencies"
+PDS 389,455264232,QLP,101,4199,1.2643,13.169431,2.364066,Orion Variable,A3,"Decreases total of 4% then jumps back up, slight spikes in higher frequencies"
+PDS 025,53898232,QLP,6,5087,1.3012,13.187217,1.071261,Orion Variable,A3,"Drops by 20%, no repeating shapes but relatively smooth"
+PDS 025,53898232,QLP,7,5087,1.3012,13.187217,1.071261,Orion Variable,A3,"Smaller amplitude ~20% and large dip of 60%, steep drop-off on periodogram"
+PDS 025,53898232,QLP,33,5087,1.3012,13.187217,1.071261,Orion Variable,A3,"Steady at beginning (change by about 20%) but ~40% amplitude later, periodic flattened lc"
+PDS 025,53898232,QLP,87,5087,1.3012,13.187217,1.071261,Orion Variable,A3,"Drops by 30%, many bumps, flattened light curve elongates overtime, pulsations in high frequency periodogram"
+V1787 Ori,332856968,QLP,6,3695,2.5554,13.0235,2.2783,Herbig Ae/Be,A5,"Amplitude ~0.75%, sharp peaks, flat at ends, slight peaks in high freq periodogram, both filters difficult time matching shape"
+V1787 Ori,332856968,QLP,32,3695,2.5554,13.0235,2.2783,Herbig Ae/Be,A5,"Amplitude ~0.5%, sinusoidal start and flat end"
+V1787 Ori,332856968,QLP,98,3695,2.5554,13.0235,2.2783,Herbig Ae/Be,A5,"Dips 4%, sharp peaks and round troughs, small peaks in high freq periodogram"
+V599 Ori,332914217,QLP,6,3904,2.4814,12.786575,2.337121,Orion Variable,A8,"Amplitude ~5% with 15% dip, pulsations at 17.5+ freq"
+V599 Ori,332914217,QLP,32,3904,2.4814,12.786575,2.337121,Orion Variable,A8,"Amplitude ~2%, pulsations at 17.5+ freq"
+V599 Ori,332914217,QLP,98,3904,2.4814,12.786575,2.337121,Orion Variable,A8,"Amplitude ~5% with 10% and 15% dips, pulsations around 20  and 40 freq"
+GSC 8645-1401,390384783,SPOC,10,5697,0.5395,12.829108,1.676692,T Tauri,F2,"Amplitude ~2% with two 10% dips, slight peak at 1 on periodogram"
+GSC 8645-1401,390384783,SPOC,11,5697,0.5395,12.829108,1.676692,T Tauri,F2,"Amplitude ~2%, slight peak at 1 on periodogram"
+AS 470,469534433,QLP,16,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~2-4%, smooth soinusoidal shape, peak at 1 freq without peak near 0"
+AS 470,469534433,QLP,17,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~2-4%, smooth soinusoidal shape, peak at 1 freq without peak near 0"
+AS 470,469534433,QLP,56,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Early amplitudes ~4%, later amplitudes ~3%, peak in periodogram at 1 and bumpy periodogram"
+AS 470,469534433,QLP,57,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Early amplitudes ~3%, later amplitudes ~4%, peak in periodogram at 1 and bumpy periodogram"
+AS 470,469534433,QLP,76,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~4% (slightly varying), peak in periodogram at 1 and bumpy periodogram"
+AS 470,469534433,QLP,77,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~4%, peak in periodogram at 1 and bumpy periodogram"
+AS 470,469534433,QLP,83,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~4% (slightly varying), peak in periodogram at 1 and bumpy periodogram"
+AS 470,469534433,QLP,84,7482,0.0989,12.160771,1.352656,Orion Variable,A,"Amplitude ~4% (slightly varying), peak in periodogram at 1 and bumpy periodogram"
+KK Oph,24378780,SPOC,91,4359*,4.22,12.153,,Herbig Ae/Be,A6,
+GSC 8143-1225,285920558,TESS-SPOC,7,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Smooth, small dips at beginning (amp ~10%), jagged dips < 40% at end, filter has difficult time matching shape"
+GSC 8143-1225,285920558,TESS-SPOC,8,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Smooth dips to 15% until end with 25% dip, filter has difficult time matching shape"
+GSC 8143-1225,285920558,TESS-SPOC,9,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Varying amplitudes with dips up to 30%, filter has difficult time matching shape"
+GSC 8143-1225,285920558,TESS-SPOC,34,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Dips ~30%, jagged and no regular pattern, periodogram peaks lower but has jaggedness at higher freq"
+GSC 8143-1225,285920558,TESS-SPOC,35,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Amplitude ~30% (though they look like dips), moving object, periodogram has low freq"
+GSC 8143-1225,285920558,TESS-SPOC,36,5039,2.6713,12.699807,1.203525,Orion Variable,F3,"Amplitude ~60%, smooth with small jaggedness, periodogram peaks at 0.5"
+PDS 129,207045303,TESS-SPOC,6,6262,1.5029,11.924835,0.983832,T Tauri,F5,"Amplitude ~0.1%, very jagged, periodogram in distinct peaks in low freq"
+PDS 129,207045303,TESS-SPOC,33,6262,1.5029,11.924835,0.983832,T Tauri,F5,"Overall change ~1%, very jagged, periodogram has less noticeable peaks"
+V1012 Ori,248448633,TESS-SPOC,5,5936,2.6462,12.201826,0.819427,Orion Variable,F3,"Dips ~30%, smooth and no regular pattern, periodogram at high freq has pattern"
+V1012 Ori,248448633,TESS-SPOC,32,5936,2.6462,12.201826,0.819427,Orion Variable,F3,"Amplitude ~1% with varying trough sizes, periodogram peaks at ~0.5"
+PDS 126,72553036,TESS-SPOC,6,8144,1.1609,11.651379,0.739109,T Tauri,A7,"Amplitude < 0.6%, flattened lightcurve is roughly sinusoidal, low freq 0-2 has high peaks"
+PDS 126,72553036,TESS-SPOC,33,8144,1.1609,11.651379,0.739109,T Tauri,A7,"Amplitude ~0.5%, flattened lightcurve is flat but jagged, low freq peaks in periodogram"
+GSC 3975-0579,401214336,TESS-SPOC,16,8768,1.0583,11.491503,0.504811,Orion Variable,A2,"Amplitude ~0.2%, periodogram peaks at 0.5"
+GSC 3975-0579,401214336,TESS-SPOC,17,8768,1.0583,11.491503,0.504811,Orion Variable,A2,"Amplitude ~0.2%, periodogram peaks at 0.5, potential peaks at higher freq"
+BO Cep,367420555,TESS-SPOC,17,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Amplitude ~5% with dips ~20%, bumps in high freq periodogram"
+BO Cep,367420555,TESS-SPOC,18,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Big dips by about 20%, small motion < 4%, "
+BO Cep,367420555,TESS-SPOC,24,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Dips of 20% and 10%, smaller motion, periodogram has peaks 0-2"
+BO Cep,367420555,TESS-SPOC,25,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Dips of 40%, 20%, and 10%, sinusoidal higher freq periodogram"
+BO Cep,367420555,TESS-SPOC,57,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Dips 10-25%, smaller motion <5%, periodogram has bumps in 0-3 range"
+BO Cep,367420555,TESS-SPOC,77,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Dips 10-25%, smaller motion <5%, periodogram has bumps in 0-3 range"
+BO Cep,367420555,TESS-SPOC,78,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Amplitude ~1.5%, dips ~10-15%, periodogram has bumps at lower freq"
+BO Cep,367420555,TESS-SPOC,84,6026,2.6751,11.402972,0.834785,Herbig Ae/Be,F5,"Amplitude ~1%, two consecutive dips ~8%, bumps in low freq periodogram"
+PX Vul,110990131,SPOC,40,7419,1.5727,11.244534,1.25589,Orion Variable,F3,"Amplitude ~2%, sharper peaks"
+PX Vul,110990131,SPOC,41,7419,1.5727,11.244534,1.25589,Orion Variable,F3,~15% dips with small smooth bumps
+PX Vul,110990131,SPOC,54,7419,1.5727,11.244534,1.25589,Orion Variable,F3,"50% and 20% dip, smaller and smooth motion otherwise"
+LkHa 208,45124112,TESS-SPOC,43,7125,1.6977,11.369095,0.726533,Herbig Ae/Be,F0,"Bigger amplitude 0.2% and smaller amplitude ~0.1%, strong peak in periodogram right under 2"
+LkHa 208,45124112,TESS-SPOC,44,7125,1.6977,11.369095,0.726533,Herbig Ae/Be,F0,"Bigger amplitude 0.2% and smaller amplitude ~0.1%, strong peak in periodogram right under 3 and at 3.5"
+BH Cep,372070676,TESS-SPOC,17,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"40% dips, smaller dips of 20%, amplitude ~5%"
+BH Cep,372070676,TESS-SPOC,18,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"Amplitude ~3%, bigger dips at beginning, constant high freq periodogram"
+BH Cep,372070676,TESS-SPOC,24,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"20% dips with 5% amplitude, potential peaks in high freq periodogram?"
+BH Cep,372070676,TESS-SPOC,57,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"10% dips with 5% amplitude, slightly jagged, periodogram spikes in low freq"
+BH Cep,372070676,TESS-SPOC,58,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"15% dips with 5% amplitude, slightly jagged"
+BH Cep,372070676,TESS-SPOC,77,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"40% and 20% dip with 5% amplitude, periodogram spikes in low freq"
+BH Cep,372070676,TESS-SPOC,78,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"15% dips with 5% amplitude, slightly jagged, periodogram spikes in low freq"
+BH Cep,372070676,TESS-SPOC,84,5910,3.0526,11.11797,0.94925,Herbig Ae/Be,F5,"30% and 15% dip with 5% amplitude, smooth with humps in low freq periodogram"
+V350 Ori,332970982,QLP,6,3628*,2.5227,11.612588,0.787162,Orion Variable,A7,"Amplitude 20% -> 5%, amplitude dampens with time"
+V350 Ori,332970982,QLP,32,,2.5227,11.612588,0.787162,Orion Variable,A7,"20% overall oscillation with tiny smooth bumps, gaussian looks like many dips"
+V350 Ori,332970982,QLP,98,,2.5227,11.612588,0.787162,Orion Variable,A7,"Dips <70%, sharp turns, falttened lightcurve ""pulses"", some spikes at high freq periodogram"
+PDS 002,382551468,SPOC,2,6803,2.4871,10.77784,0.530024,Orion Variable,F3,"Amplitud ~0.3%, thick, some spikes at higher freq"
+HD 344261,385362401,TESS-SPOC,14,6305,3.3976,10.523235,0.711572,Star,F2,"Amplitude < 0.5%, much of the data did not pass mask, higher frequency peak"
+HD 344261,385362401,TESS-SPOC,40,6305,3.3976,10.523235,0.711572,Star,F2,"Amplitude 0.1%, peak in the higher freq periodogram ~7"
+HD 344261,385362401,TESS-SPOC,54,6305,3.3976,10.523235,0.711572,Star,F2,"Amplitude 0.1%, peak in the higher freq periodogram ~8"
+WW Vul,385894679,SPOC,40,7215,2.062,10.550161,0.628012,Herbig Ae/Be,A2,"Amplitude ~2.5%, 6% dip, second peak in periodogram at 0.5"
+WW Vul,385894679,SPOC,54,7215,2.062,10.550161,0.628012,Herbig Ae/Be,A2,"Varying dips ranging 5-20%, jagged, periodogram peaks at 0.5"
+WW Vul,385894679,SPOC,81,7215,2.062,10.550161,0.628012,Herbig Ae/Be,A2,"40% with small wiggles (<5%) otherwise, flattened lightcurve has many spikes, no more ""abnormal"" peaks in periodogram"
+T Ori,427396230,SPOC,32,4377*,2.4843,11.287081,1.095647,Herbig Ae/Be,A8,"5, 15, 20% dips, quasiperiodic with amplitude ~0.2%, periodogram has signal 0-1"
+IP Per,101166418,SPOC,18,5629*,3.4456,10.285868,0.536129,Orion Variable,A7,"Amplitude ~0.5%, many peaks in 20-60 on periodogram"
+IP Per,101166418,SPOC,43,,3.4456,10.285868,0.536129,Orion Variable,A7,"Amplitude ~0.5%, many peaks in 20-55 on periodogram"
+UX Ori,213103713,TESS-SPOC,5,6136,3.1004,10.713815,0.884583,Herbig Ae/Be,A4,"Fluctuations of 40-60%, smooth, bumpy high freq periodogram"
+UX Ori,213103713,TESS-SPOC,32,6136,3.1004,10.713815,0.884583,Herbig Ae/Be,A4,"Fluctuations of ~30%, smooth, spike at 70 in periodogram"
+V346 Ori,264460023,SPOC,6,7716,2.948,10.078487,0.366664,YSO,A8,"Amplitude ~0.25% with lots of jagged, spikes in periodogram at 15-50%"
+V346 Ori,264460023,SPOC,32,7716,2.948,10.078487,0.366664,YSO,A8,"Amplitude ~0.25% with lots of jagged, spikes in periodogram at 15-50%"
+HD 244314,200511734,SPOC,32,8466,2.4834,10.018372,0.325124,Orion Variable,A1,"Amplitude ~1%, flattened lightcurve has pulses, a few peaks near 40 in periodogram"
+HD 244314,200511734,SPOC,71,8466,2.4834,10.018372,0.325124,Orion Variable,A1,"Amplitude ~1%, flattened lightcurve has pulses, a few peaks near 40 in periodogram"
+PDS 277,183658281,TESS-SPOC,8,7046,2.9215,9.870634,0.571036,T Tauri,F3,"Amplitude ~0.2%, 0.6% dip, jagged"
+PDS 277,183658281,TESS-SPOC,34,7046,2.9215,9.870634,0.571036,T Tauri,F3,"Amplitude ~0.2%, jagged"
+PDS 277,183658281,TESS-SPOC,35,7046,2.9215,9.870634,0.571036,T Tauri,F3,"Amplitude ~0.2%, 0.6% dip, jagged"
+PDS 277,183658281,TESS-SPOC,61,7046,2.9215,9.870634,0.571036,T Tauri,F3,"Amplitude ~0.2%, 2% bump at beginning, jagged"
+PDS 277,183658281,TESS-SPOC,62,7046,2.9215,9.870634,0.571036,T Tauri,F3,"Amplitude ~0.2%, overall shape has bump, jagged"
+HD 290764,11199521,SPOC,6,7630,2.4919,9.769571,0.492185,Delta Scuti,F0,"Amplitude ~20-50%, flattened lightcurve is varying amplitudes, peaks in periodogram at 10-20"
+HD 290764,11199521,SPOC,32,7630,2.4919,9.769571,0.492185,Delta Scuti,F0,"Amplitude ~0.5%, flattened lightcurve is varying amplitudes, peaks in periodogram at 10-25"
+HD 68695,81297869,SPOC,34,12264,2.6593,9.806855,0.157467,Orion Variable,A3,"Variation < 0.5%, caterpillar-like, flattened lightcurve pulses, high freq periodogram peaks ~60"
+HD 68695,81297869,SPOC,35,12264,2.6593,9.806855,0.157467,Orion Variable,A3,"Variation < 0.5%, caterpillar-like, flattened lightcurve pulses, high freq periodogram peaks ~60"
+HD 68695,81297869,SPOC,61,12264,2.6593,9.806855,0.157467,Orion Variable,A3,"Variation < 0.3% with dips 0.5%, caterpillar-like, flattened lightcurve pulses, high freq periodogram peaks ~60"
+HD 68695,81297869,SPOC,62,12264,2.6593,9.806855,0.157467,Orion Variable,A3,"Variation < 0.3%, caterpillar-like, flattened lightcurve pulses, high freq periodogram peaks ~60"
+BF Ori,287840183,TESS-SPOC,6,6938,2.6173,10.38022,0.51645,Herbig Ae/Be,A7,"Dips ~20%, Amplitude ~5%, high freq periodogram has wave"
+BF Ori,287840183,TESS-SPOC,32,6938,2.6173,10.38022,0.51645,Herbig Ae/Be,A7,"Big hills and troughs ~20%, amplitude ~7%, periodogram spikes at 70"
+NV Ori,427395473,QLP,6,4879*,2.5796,9.69661,0.625295,Herbig Ae/Be,F6,"Amplitude ~2%, sharper peaks, some peaks in higher freq periodogram"
+NV Ori,427395473,QLP,32,,2.5796,9.69661,0.625295,Herbig Ae/Be,F6,"Dips 5%, amplitude ~1%"
+NV Ori,427395473,QLP,98,,2.5796,9.69661,0.625295,Herbig Ae/Be,F6,"Dips 10%, amplitude ~1%, some pointed peaks and valleys"
+HD 287823,459990291,TESS-SPOC,6,8213,2.8882,9.695356,0.231715,Orion Variable,A0,"Amplitude ~0.5%, very jagged, peaks in periodogram near 20 but cadence too long"
+HD 287823,459990291,TESS-SPOC,32,8213,2.8882,9.695356,0.231715,Orion Variable,A0,"Amplitude < 0.1%, caterpillar-like, flattened lightcurve pulses, peaks at periodogram near 70"
+HD 244604,200517741,SPOC,32,8386,2.4798,9.384071,0.285322,Orion Variable,A0,"Some jumps or troughs of < 0.3%, caterpillar-like, many spikes"
+HD 244604,200517741,SPOC,71,8386,2.4798,9.384071,0.285322,Orion Variable,A0,"Amplitude ~0.2%, tiny bumps or troughs in shape, very jagged"
+V718 Sco,49330990,SPOC,91,6296,6.4628,8.758203,0.695806,Herbig Ae/Be,A5,"Amplitude ~5%, dip ~35%, flattened lightcurve pulses, peaks in high freq periodogram near 20 and 40"
+HD 150193,163110252,SPOC,91,5532,6.6313,8.673056,0.917198,Herbig Ae/Be,A3,"Amplitude ~0.3%, very jagged, little bumps, periodogram peaks 0.5"
+HD 56895B,318417618,SPOC,33,6920,6.0295,8.320882,0.517991,Orion Variable,F0,generally flat and caterpillar-like
+HD 56895B,318417618,SPOC,34,6920,6.0295,8.320882,0.517991,Orion Variable,F0,"Amplitude ~0.2%, smaller oscillations within, periodogram peaks ~20"
+HD 139614,254387071,SPOC,12,7777,7.484,8.218988,0.339088,Orion Variable,A9,"Amplitude < 0.1%, caterpillar-like, flattened lightcurve pulses, peaks at 20-40 with some higher on periodogram "
+HD 139614,254387071,SPOC,38,7777,7.484,8.218988,0.339088,Orion Variable,A9,"Amplitude < 0.1%, caterpillar-like with one spike, flattened lightcurve pulses, peaks at 20-40 with some higher on periodogram "
+HD 139614,254387071,SPOC,65,7777,7.484,8.218988,0.339088,Orion Variable,A9,"Amplitude < 0.1%, caterpillar-like with one spike, flattened lightcurve pulses, peaks at 20-40 with some higher on periodogram "
+HD 36112,73816033,SPOC,71,7314,6.4157,8.220417,0.424628,Herbig Ae/Be,A8,"Amplitude ~1%, flattened lightcurve has pulses, peaks betwen 15-40 on periodogram"
+HD 144432,67671603,SPOC,91,6768,6.4581,8.109031,0.541655,Herbig Ae/Be,A9,"Amplitude ~0.75%, flattened lightcurve has pulses, peaks near 20 on periodogram"
+HD 35929,199757113,SPOC,6,6383,2.6291,8.007738,0.598946,Herbig Ae/Be,F2,"Amplitude ~0.1%, very jagged, periodogram peaks around 0.75"
+HD 35929,199757113,SPOC,32,6383,2.6291,8.007738,0.598946,Herbig Ae/Be,F2,"Amplitude ~0.1%, very jagged, periodogram peaks around 0.75"
+HD 100453,452035938,SPOC,10,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.4%, jagged, four distinct peaks in low freq periodogram"
+HD 100453,452035938,SPOC,37,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.3%, jagged, four distinct peaks in low freq periodogram"
+HD 100453,452035938,SPOC,64,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.2% and overall shape varies ~0.2%, jagged, four distinct peaks in low freq periodogram"
+HD 100453,452035938,SPOC,90,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.2% and overall shape varies ~0.2%, jagged, four distinct peaks in low freq periodogram"
+HD 100453,452035938,SPOC,99,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.2%, jagged, two distinct peaks in low freq periodogram"
+HD 100453,452035938,SPOC,100,7299,9.6355,7.735444,0.412873,Herbig Ae/Be,F1,"Amplitude ~0.2% and overall shape varies ~0.2%, dips 0.6%, jagged, three distinct peaks in low freq periodogram"
+HD 31648,85100457,SPOC,43,10983,6.4014,7.653966,0.283397,Herbig Ae/Be,A5,"Amplitude ~1%, jagged"
+HD 31648,85100457,SPOC,44,10983,6.4014,7.653966,0.283397,Herbig Ae/Be,A5,"Amplitude ~1%, jagged"
+HD 31648,85100457,SPOC,71,10983,6.4014,7.653966,0.283397,Herbig Ae/Be,A5,"Amplitude ~2%, jagged, pointed"
+HR 5999,374813257,SPOC,65,6709,6.3057,7.688747,0.812649,Herbig Ae/Be,A9,"Decreasing lightcurve with two ~15% dips, small substructure ~2% amplitude"
+HD 50138,123545883,SPOC,6,5802,2.8487,6.550996,0.148762,Herbig Ae/Be,A1,"Bigger amplitude 4%, smaller amplitude 2%, more inconsistent at later times"
+HD 50138,123545883,SPOC,33,5802,2.8487,6.550996,0.148762,Herbig Ae/Be,A1,"Bigger amplitude 4%, smaller amplitude 2%"
+HD 50138,123545883,SPOC,87,5802,2.8487,6.550996,0.148762,Herbig Ae/Be,A1,"Dips 4%, sharper points, flattened lightcurve has peaks"
+HD 104237,357040880,SPOC,11,7589,9.3805,6.558351,0.383279,Herbig Ae/Be,A4,"2% amplitude at beginning then 8% drop at end, flattened light curve has pulses, peaks in periodogram near 35"
+HD 104237,357040880,SPOC,12,7589,9.3805,6.558351,0.383279,Herbig Ae/Be,A4,"Exponential increase and decay, jagged structure, flattened lightcurve pulses, peaks in periodogram near 35"
+HD 104237,357040880,SPOC,38,7589,9.3805,6.558351,0.383279,Herbig Ae/Be,A4,"Amplitude 1-2%, jagged, flattened lightcurve has pulses, peaks near 35 in periodogram"
+HD 104237,357040880,SPOC,39,7589,9.3805,6.558351,0.383279,Herbig Ae/Be,A4,"Amplitude 1-2%, jagged, flattened lightcurve has pulses, peaks near 35 in periodogram"
+HD 104237,357040880,SPOC,93,7589,9.3805,6.558351,0.383279,Herbig Ae/Be,A4,"Amplitude 1-2% with 3% dips, jagged, flattened lightcurve has pulses, peaks near 35 in periodogram"
+HD 199603,442508593,SPOC,92,7638,11.1896,5.928009,0.343104,Spectroscopic Binary,A9,"Dips of 10% and 15%, alternating peak heights in periodogram from 0-20"
+HD 9672,54003409,SPOC,3,8790,17.4725,5.611201,0.074965,High Proper Motion Star,A1,"Flat, caterpillar-like, periodogram peaks at 1, 2, and 4"
+HD 9672,54003409,SPOC,30,8790,17.4725,5.611201,0.074965,High Proper Motion Star,A1,"Flat, caterpillar-like, periodogram peaks at 2 and 4.5"
+HD 9672,54003409,SPOC,97,8790,17.4725,5.611201,0.074965,High Proper Motion Star,A1,"Flat, caterpillar-like, periodogram peaks a bit at 2 and 4.5"
+HD 41511,445062554,SPOC,6,5609,3.5742,4.658218,0.9589,Symbiotic Star,A3+K/M,"Dips ~1% then has amplitude ~0.2%, higher freq periodogram oscillates"
+HD 41511,445062554,SPOC,33,5609,3.5742,4.658218,0.9589,Symbiotic Star,A3+K/M,"Downward trend of 2% overall, oscillates with amplitude 0.2%"
+HD 41511,445062554,SPOC,87,5609,3.5742,4.658218,0.9589,Symbiotic Star,A3+K/M,Amplitude ~0.2% with 0.8% dip
+HD 39014,149542947,SPOC,1,7551,21.872,4.261496,0.342441,Star,A7,"Flat, caterpillar-like, some sharp spikes and dips, periodogram peaks near 5-20"
+HD 39014,149542947,SPOC,2,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,3,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,5,7551,21.872,4.261496,0.342441,Star,A7,"Amplitude 0.05%, caterpillar-like, some sharp spikes and dips, periodogram peaks between 1-4 and near 5-20"
+HD 39014,149542947,SPOC,6,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,8,7551,21.872,4.261496,0.342441,Star,A7,"Amplitude 0.05%, caterpillar-like, some sharp spikes and dips, periodogram peaks near 5-20"
+HD 39014,149542947,SPOC,9,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,11,7551,21.872,4.261496,0.342441,Star,A7,"Amplitude 0.05%, caterpillar-like, some sharp spikes and dips, periodogram peaks between 1-4 and near 5-20"
+HD 39014,149542947,SPOC,12,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,13,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,28,7551,21.872,4.261496,0.342441,Star,A7,"Amplitude 0.05%, caterpillar-like, some sharp spikes and dips, periodogram peaks near 1 and near 5-20"
+HD 39014,149542947,SPOC,29,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,30,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,31,7551,21.872,4.261496,0.342441,Star,A7,"Amplitude 0.05%, caterpillar-like, some sharp spikes and dips, periodogram peaks near 1-4 and near 5-20"
+HD 39014,149542947,SPOC,32,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,33,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,35,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,36,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,38,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,39,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,61,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,62,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,66,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,67,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,68,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,87,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,88,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,89,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,93,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,94,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,95,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,96,7551,21.872,4.261496,0.342441,Star,A7,
+HD 39014,149542947,SPOC,98,7551,21.872,4.261496,0.342441,Star,A7,
+HD 290380,4206238,SPOC,6,6156.9,2.8857,10.284791,0.72608,Or*,F5-F8,"Dip 6%, amplitude <1%, smaller peaks ~1 in periodogram"
+HD 290380,4206238,SPOC,32,6156.9,2.8857,10.284791,0.72608,Or*,F5-F8,"Dip 6%, amplitude <1%, flattened light curve dampen, smaller peaks ~1 in periodogram"
+Hen 3-1191,8806247,QLP,12,4039*,0.5573,13.052254,1.615822,Or*,B1,"200% exp decay at beginning, stable, periodogram hump at 1, bumps in high freq"
+Hen 3-1191,8806247,QLP,39,4039*,0.5573,13.052254,1.615822,Or*,B1,"Amplitude ~4%, varying widths"
+Hen 3-1191,8806247,QLP,66,4039*,0.5573,13.052254,1.615822,Or*,B1,"Amplitude ~2%, varying widths"
+Hen 3-1191,8806247,QLP,93,4039*,0.5573,13.052254,1.615822,Or*,B1,"Amplitude ~4%, varying widths"
+HD 290764,11199521,SPOC,6,7630,2.4919,9.769571,0.492185,dS*,A5-A7,"40% amplitude at beginning, ~20% at end, periodogram peaks near 20"
+HD 290764,11199521,SPOC,32,7630,2.4919,9.769571,0.492185,dS*,A5-A7,"<1% amplitude at beginning, smaller at end, periodogram peaks near 20 (more pronounced)"
+HD 37806,11402323,QLP,6,5327*,2.4898,7.867092,0.165946,Be*,B8,"Amplitude ~1.5%, very jagged"
+HD 37806,11402323,QLP,98,5327*,2.4898,7.867092,0.165946,Be*,B8,"Amplitude ~1.5% and overall amplitude ~5% with 12.5% dips, very jagged"
+PDS 124,12161661,TESS-SPOC,6,7870,1.2903,12.325594,0.794666,TT*,B8-B9,Amplitude ~10% and jagged
+PDS 124,12161661,TESS-SPOC,33,7870,1.2903,12.325594,0.794666,TT*,B8-B9,"Overall aplitude ~10% with small amplitude 5%, jagged"
+IL Cep,12876844,SPOC,57,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4%, periodogram has alternating peaks and another peak at 3"
+IL Cep,12876844,SPOC,58,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4%, periodogram has alternating peaks and another peak at 3"
+IL Cep,12876844,SPOC,77,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4%, periodogram has alternating peaks (higher than others) and another peak at 3"
+IL Cep,12876844,SPOC,78,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4%, periodogram has decreasing peaks and another peak at 3"
+IL Cep,12876844,SPOC,84,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4% with extra 2% dip before 4%, periodogram has alternating peaks and another peak at 3"
+IL Cep,12876844,SPOC,85,6200.9,1.2328,9.003762,1.103078,Ae*,B2,"Amplitude 0.5%, dips 4%, periodogram has alternating peaks and another peak at 3"
+V1685 Cyg,13002932,SPOC,14,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 3% dip and peak, pointed, slightly spaced peaks in low freq periodogram"
+V1685 Cyg,13002932,SPOC,15,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 4% dip and peak, pointed, slightly spaced peaks in low freq periodogram"
+V1685 Cyg,13002932,SPOC,41,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 4% dip, slightly peaked at 1 on periodogram"
+V1685 Cyg,13002932,SPOC,75,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 5% dip and peak, pointed"
+V1685 Cyg,13002932,SPOC,81,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 8% dip and peak, pointed, slightly spaced peaks in low freq periodogram"
+V1685 Cyg,13002932,SPOC,82,5745.8,1.0956,10.223534,1.409784,Ae*,B2-B3,"Amplitude 2% with 4% dip and peak, pointed, slightly spaced peaks in low freq periodogram"
+VOS 321,13417240,QLP,14,5220*,1.0167,12.575362,0.741155,Y*O,A8,Overall amplitude is 2% and 1% jumps
+VOS 321,13417240,QLP,15,5220*,1.0167,12.575362,0.741155,Y*O,A8,Overall amplitude is 2% and 1% jumps
+VOS 321,13417240,QLP,41,5220*,1.0167,12.575362,0.741155,Y*O,A8,Amplitude 3% at beginning then 1% at the end
+VOS 321,13417240,QLP,75,5220*,1.0167,12.575362,0.741155,Y*O,A8,Amplitude 3% at beginning then 1% at the end
+VOS 321,13417240,QLP,81,5220*,1.0167,12.575362,0.741155,Y*O,A8,"Amplitude 1%, fuzzy"
+VOS 321,13417240,QLP,82,5220*,1.0167,12.575362,0.741155,Y*O,A8,Amplitude 1% and 2% dip
+VOS 398,14740791,QLP,14,5263.1,1.2867,13.496857,1.083768,Y*O,G,"30% and 25% periodic dips, peaks in periodogram between 1-10"
+VOS 398,14740791,QLP,15,5263.1,1.2867,13.496857,1.083768,Y*O,G,"30% and 25% periodic dips, peaks in periodogram between 1-10"
+VOS 398,14740791,QLP,41,5263.1,1.2867,13.496857,1.083768,Y*O,G,"30% and 25% periodic dips, peaks in periodogram between 0-10"
+VOS 398,14740791,QLP,75,5263.1,1.2867,13.496857,1.083768,Y*O,G,"Periodic dips 20%, with 60% overall increase then drop"
+VOS 398,14740791,QLP,82,5263.1,1.2867,13.496857,1.083768,Y*O,G,"20% and 25% periodic dips, peaks in periodogram between 0-10"
+MWC 1021,15898682,TESS-SPOC,75,6193.5,0.274,10.648601,3.315287,Ae*,B6-B7,"Amplitude ~1% and ~0.3% small amplitude, periodogram pulses at 1"
+V1478 Cyg,17130641,SPOC,41,3534,0.5878,11.028811,2.992155,**,B5-B6,"0.5% ampltiude, fuzzy but slight peaks"
+V1478 Cyg,17130641,SPOC,55,3534,0.5878,11.028811,2.992155,**,B5-B6,"0.4% ampltiude, fuzzy but slight peaks"
+V1478 Cyg,17130641,SPOC,75,3534,0.5878,11.028811,2.992155,**,B5-B6,"0.5% ampltiude, fuzzy but slight peaks, flat flattened light curve"
+HD 34282,24344701,SPOC,5,8270,3.2403,9.859694,0.257697,Ae*,A0-A1,"Amplitude ~4%, fuzzy, flattened light curve cannot see pulsations, 60-80 in periodogram peaks"
+HD 34282,24344701,SPOC,32,8270,3.2403,9.859694,0.257697,Ae*,A0-A1,"Amplitude ~5% with 10% overall increase, slight pulses, peaks at 60-80 in periodogram"
+SAO 220669,30243973,SPOC,8,6180,1.1399,8.697815,0.892223,Or*,B4,"Regular dips ~1% and 0.5% at different phases, peaks of 0-2 in periodogram"
+SAO 220669,30243973,SPOC,9,6180,1.1399,8.697815,0.892223,Or*,B4,"Regular dips ~0.75% and 0.5% at different phases, peaks of 0-2 in periodogram"
+SAO 220669,30243973,SPOC,35,6180,1.1399,8.697815,0.892223,Or*,B4,"Regular dips ~1% at beginning and end then 0.5% in middle, peaks of 0-2 in periodogram"
+SAO 220669,30243973,SPOC,36,6180,1.1399,8.697815,0.892223,Or*,B4,"Regular dips ~1% at beginning then 0.5% at end, peaks of 0-2 in periodogram"
+PDS 286,31638754,TESS-SPOC,62,30026.8,0.5482,11.152239,2.381588,Or*,B0,"Amplitude <0.5% with 1.5% overal dips, pointed, periodogram peaks at 2"
+PDS 286,31638754,TESS-SPOC,63,30026.8,0.5482,11.152239,2.381588,Or*,B0,"Amplitude <0.5% with 1.5% overal dips, pointed, periodogram peaks at 2 (less apparent)"
+PDS 24,35485982,QLP,6,7876,0.9474,13.155553,0.614018,Y*O,B9,"Amplitude ~1% with 2% dips, sharper peaks in periodogram"
+PDS 24,35485982,QLP,7,7876,0.9474,13.155553,0.614018,Y*O,B9,"Amplitude ~1%, small peaks in periodogram in low and high freq (instrumentation?)"
+PDS 24,35485982,QLP,33,7876,0.9474,13.155553,0.614018,Y*O,B9,"Amplitude ~3% with 5% dip, less prominent peaks in periodogram"
+PDS 24,35485982,QLP,87,7876,0.9474,13.155553,0.614018,Y*O,B9,Amplitude ~2% with 10-12% sharp dips
+LkHa 208,45124112,TESS-SPOC,43,10077.2,1.6977,11.369095,0.726533,Ae*,A9-F0,"Amplitude ~0.2% with 0.4% peaks, sharp, rise and fall overall by ~0.5%, peaks in periodogram and 2 and 4"
+LkHa 208,45124112,TESS-SPOC,44,10077.2,1.6977,11.369095,0.726533,Ae*,A9-F0,"Amplitude ~0.2% with 0.4% peaks, sharp, peaks in periodogram and 2 and 4"
+HD 155448,46749954,TESS-SPOC,66,7999.9,0.9566,8.730389,0.108907,Or*,B8,"Amplitude ~0.4% with small wiggles in between, fuzzy, periodogram peaks at around 1 and 6"
+HD 290500,50656450,TESS-SPOC,6,7834.9,2.4517,10.990434,0.471671,Or*,A2-A3,"Amplitude <0.2%, sharp dips to 0.4%, some low freq peaks but many peaks near 20 in periodogram"
+HD 290500,50656450,TESS-SPOC,32,7834.9,2.4517,10.990434,0.471671,Or*,A2-A3,"Amplitude ~0.5% with round dips to 1.5%, periodogram has pulsations ~20-60"
+RY Ori,50745417,QLP,6,6306,2.8527,11.36338,1.129364,Or*,F4-F9,"Overall rise and fall of about 100% with 20% amplitude, smooth"
+RY Ori,50745417,QLP,32,6306,2.8527,11.36338,1.129364,Or*,F4-F9,Ampltiude ~10% with 40% dip
+RY Ori,50745417,QLP,98,6306,2.8527,11.36338,1.129364,Or*,F4-F9,"Amplitude 10%, with 20% dip"
+PDS 25,53898232,QLP,6,5087,1.3012,13.187217,1.071261,Or*,A3-A6,"15% variation, periodic, relatively pointed peaks and troughs"
+PDS 25,53898232,QLP,7,5087,1.3012,13.187217,1.071261,Or*,A3-A6,Drops to 40% then 100% inclination with bumps
+PDS 25,53898232,QLP,33,5087,1.3012,13.187217,1.071261,Or*,A3-A6,"5-10% variation at the beginning, 40% variation toward the end"
+PDS 25,53898232,QLP,87,5087,1.3012,13.187217,1.071261,Or*,A3-A6,"Many valleys to 80% with a couple peaks up to 20%, some missing data"
+HD 9672,54003409,SPOC,3,8950.1,17.4725,5.611201,0.074965,PM*,A1-A2,"Flat light curve with less than 0.01% variation but fuzzy, pulses in low freq periodogram"
+HD 9672,54003409,SPOC,30,8950.1,17.4725,5.611201,0.074965,PM*,A1-A2,"Flat light curve with less than 0.01% variation but fuzzy, pulses in low freq periodogram"
+HD 9672,54003409,SPOC,97,8950.1,17.4725,5.611201,0.074965,PM*,A1-A2,"Flat light curve with less than 0.01% variation but fuzzy, small pulses in low freq periodogram"
+HD 35187,54185990,SPOC,43,7241*,6.1896,8.505263,0.3578,Y*O,B9-A0,"2% oscillations, a bit fuzzy, busy flattened light curve, pulsations in periodogram at 40-65"
+HD 35187,54185990,SPOC,44,7241*,6.1896,8.505263,0.3578,Y*O,B9-A0,"Increases 5% overall then ~4% amplitude, busy flattened light curve, pulsations in periodogram at 40-65"
+HD 35187,54185990,SPOC,45,7241*,6.1896,8.505263,0.3578,Y*O,B9-A0,"Amplitude 1% with 2% dip, more defined pulsations in flattened light curve, pulsations in periodogram at 40-65"
+HD 35187,54185990,SPOC,71,7241*,6.1896,8.505263,0.3578,Y*O,B9-A0,"Jagged with up to 10% dips, pulsations in flattened light curve, pulsations in periodogram at 40-65"
+HD 235495,63705801,TESS-SPOC,56,4509*,1.9396,9.592075,0.431986,Or*,B9,Overall amplitude ~2% with smaller motion <1%
+HD 235495,63705801,TESS-SPOC,76,4509*,1.9396,9.592075,0.431986,Or*,B9,"Overall amplitude ~1% with many spikes and dips, slight second peak in periodogram at 0.5"
+HD 235495,63705801,TESS-SPOC,82,4509*,1.9396,9.592075,0.431986,Or*,B9,"Amplitude ~1% with 2% dip, slight peak in periodogram at ~10"
+HD 235495,63705801,TESS-SPOC,83,4509*,1.9396,9.592075,0.431986,Or*,B9,Overall amplitude ~0.5% with many spikes and dips
+V1818 Ori,66918331,QLP,6,4569,1.5788,10.818905,1.589575,Ae*,B8,Beginning amplitude ~1% then ~4%
+V1818 Ori,66918331,QLP,33,4569,1.5788,10.818905,1.589575,Ae*,B8,No motion at beginning then 40% increase
+V1818 Ori,66918331,QLP,87,4569,1.5788,10.818905,1.589575,Ae*,B8,"Amplitude ~0.3% with smooth humps in between, fuzzy, slight peaks in low freq periodogram"
+V1818 Ori,66918331,QLP,98,4569,1.5788,10.818905,1.589575,Ae*,B8,"Initial 25% increase then 5% amplitude, spikes in flattened light curve"
+HD 38120,72780071,QLP,6,3203*,2.6007,9.037031,0.126962,Be*,B8,"<0.6% dips and peaks, jagged"
+HD 38120,72780071,QLP,98,3203*,2.6007,9.037031,0.126962,Be*,B8,Overall amplitude ~1% with smaller motion and many dips
+HD 38087,72781767,SPOC,98,7988,2.6523,8.219374,0.309796,Or*,B5-B6,"Flat with 5-10% peaks/dips, jagged, periodogram peaks at 3"
+RR Tau,75242497,QLP,43,13234.7,1.2343,12.434809,1.312146,Ae*,B9,"120% drop at beginning, 30% dips after, spike"
+RR Tau,75242497,QLP,44,13234.7,1.2343,12.434809,1.312146,Ae*,B9,100% decrease/increase at beginning and end with 20% dips in between
+RR Tau,75242497,QLP,45,13234.7,1.2343,12.434809,1.312146,Ae*,B9,30% amplitude with bumps in between
+RR Tau,75242497,QLP,71,13234.7,1.2343,12.434809,1.312146,Ae*,B9,60% amplitude at beginning then 30%
+RR Tau,75242497,QLP,72,13234.7,1.2343,12.434809,1.312146,Ae*,B9,150% decrease/increase at beginning and end with ~20% bumps in between
+HD 245906,75242566,TESS-SPOC,71,6606.8,1.3302,10.425079,0.780212,Or*,A5-A7,"~0.5% amplitude with spikes, a bit fuzzy, periodogram peaks near 0.5"
+HD 245906,75242566,TESS-SPOC,72,6606.8,1.3302,10.425079,0.780212,Or*,A5-A7,"~0.5% amplitude, a bit fuzzy, periodogram peaks near 0.5"
+HD 249879,89189882,SPOC,71,11232,1.6103,10.623443,0.058476,Ae*,B8,"Amplitude ~1%, spike in periodogram right above 1"
+HD 249879,89189882,SPOC,72,11232,1.6103,10.623443,0.058476,Ae*,B8,"Amplitude ~1%, spike in periodogram right above 1"
+VOS 465,95586779,QLP,7,7885.8,0.8065,13.174664,0.812176,Y*O,A7,"2% dips with small amplitude, regular spikes in low freq periodogram"
+VOS 465,95586779,QLP,33,7885.8,0.8065,13.174664,0.812176,Y*O,A7,"2% dips with small amplitude and 5% overall decrease, regular spikes in low freq periodogram"
+VOS 465,95586779,QLP,87,7885.8,0.8065,13.174664,0.812176,Y*O,A7,"No periodicity, 4% overall variation with 8% dip, regular spikes in low freq periodogram"
+AB Aur,96680681,SPOC,43,7920,6.4127,7.111234,0.270019,Ae*,A1-A2,1% amplitude with 0.5% smaller motion
+AB Aur,96680681,SPOC,44,7920,6.4127,7.111234,0.270019,Ae*,A1-A2,0.5% variation at beginning then 2% dip and increase overall by 3%
+AB Aur,96680681,SPOC,59,7920,6.4127,7.111234,0.270019,Ae*,A1-A2,"0.5% ampltiude at beginning then 1% ampltiude at end, jagged"
+AB Aur,96680681,SPOC,71,7920,6.4127,7.111234,0.270019,Ae*,A1-A2,"1% ampltiude at beginning then 3% drop at end, jagged"
+AB Aur,96680681,SPOC,86,7920,6.4127,7.111234,0.270019,Ae*,A1-A2,"Two 3% drops, 1% variation, jagged, lots of data missing"
+VOS 131,97638779,TESS-SPOC,43,5468.8,1.4768,12.532184,1.198906,Y*O,F6-G4,"20% amplitude at beginning, then 5% amplitude, increasing overall by 40%, pulses in low freq periodogram"
+VOS 131,97638779,TESS-SPOC,44,5468.8,1.4768,12.532184,1.198906,Y*O,F6-G4,"5% amplitude with decrease.increase overall 20%, three pulses in low freq periodogram"
+VOS 131,97638779,TESS-SPOC,45,5468.8,1.4768,12.532184,1.198906,Y*O,F6-G4,"0.5% amplitude with 10% decrease overall, pulses in low freq periodogram"
+HD 250550,97807159,SPOC,72,8868,1.3153,9.506199,0.234982,Ae*,B8,"2% overall amplitude with 1% smaller oscillations, jagged"
+VOS 15,101186168,QLP,12,8303.9,0.85,13.617937,1.027954,RC*,A6,Steep rise of 15% then amplitude ~2.5%
+VOS 15,101186168,QLP,39,8303.9,0.85,13.617937,1.027954,RC*,A6,Multiple 15% dips with amplitude 2.5-5%
+VOS 15,101186168,QLP,66,8303.9,0.85,13.617937,1.027954,RC*,A6,"15% dip with 5% amplitude, periodogram peaks at 10 and near 40"
+VOS 15,101186168,QLP,91,8303.9,0.85,13.617937,1.027954,RC*,A6,"15% dips with 2.5-5% amplitude plut dip of 40%, three peaks in periodogram above 40"
+VOS 15,101186168,QLP,92,8303.9,0.85,13.617937,1.027954,RC*,A6,"15% dips with 2.5-5% amplitude, three peaks in periodogram above 40"
+VOS 15,101186168,QLP,93,8303.9,0.85,13.617937,1.027954,RC*,A6,"Two 40% dips with 15% dips and 2.5% amplitude, periodogram peaks three times above 40"
+GSC 6546-3156,107406463,QLP,7,4949*,0.7499,14.459938,1.147627,Or*,B9-A0,"2% amplitude, fuzzy, out of phase 1% amplitude oscillations"
+PDS 133,107544865,QLP,7,5817.5,0.7195,14.434046,1.428073,TT*,B7-B8,5% amplitude dips with 1% smaller amplitude oscillations
+PDS 130,120751782,QLP,6,5610,0.7676,13.224727,1.113183,TT*,B8-B9,"Amplitude 0.5-2%, jagged"
+PDS 130,120751782,QLP,33,5610,0.7676,13.224727,1.113183,TT*,B8-B9,0.5-1% amplitude with 2% overall amplitude
+PDS 130,120751782,QLP,87,5610,0.7676,13.224727,1.113183,TT*,B8-B9,"1-2% overall amplitude with different widths, fuzzy"
+V921 Sco,121137860,TESS-SPOC,66,4274,0.6746,10.323873,2.172963,Be*,B0-B1,"1-4% amplitude dips, alternating, periodogram has lower freq peaks"
+Z CMa,125641610,QLP,7,3861,2.0354,8.986204,1.657319,Ae*,A4-A6,"1-2% dips, jagged, aperiodic"
+Z CMa,125641610,QLP,33,3861,2.0354,8.986204,1.657319,Ae*,A4-A6,0.5% amplitude with increasing overall by about 8%
+Z CMa,125641610,QLP,87,3861,2.0354,8.986204,1.657319,Ae*,A4-A6,5-20% dips with ~1% amplitude smaller oscillatons
+HU CMa,125644224,QLP,7,9991.1,0.8625,11.662469,0.520282,Ae*,B7,"Amplitude ~3%, jagged, periodogram peaks at lower freq and just above 5"
+HU CMa,125644224,QLP,33,9991.1,0.8625,11.662469,0.520282,Ae*,B7,"Amplitude ~3%, overall rise of 10%, jagged, flattened light curve is periodoic, periodogram peaks at lower freq and just above 5"
+HU CMa,125644224,QLP,87,9991.1,0.8625,11.662469,0.520282,Ae*,B7,"Amplitude ~3%, overall rise of 10%, jagged, flattened light curve is periodoic, periodogram peaks at lower freq and just above 5"
+VOS 22,136712091,QLP,15,7298,0.4014,12.295445,1.00367,Y*O,B8,"Amplitude ~2%, slightly jagged, 20% drop at end"
+VOS 22,136712091,QLP,16,7298,0.4014,12.295445,1.00367,Y*O,B8,Overall fall then rise of 10% with 2% amplitude oscillations
+VOS 22,136712091,QLP,55,7298,0.4014,12.295445,1.00367,Y*O,B8,"1% amplitude at beginning then 2.5% at end, rising nearly 20% overall"
+VOS 22,136712091,QLP,56,7298,0.4014,12.295445,1.00367,Y*O,B8,"Amplitude ~2% and overall amplitude ~4%, slightly fuzzy"
+VOS 22,136712091,QLP,75,7298,0.4014,12.295445,1.00367,Y*O,B8,Amplitude 1-2% with 10% overall rise
+VOS 22,136712091,QLP,76,7298,0.4014,12.295445,1.00367,Y*O,B8,"Dips up to 6% with 0.5% amplitude oscillations, fuzzy"
+VOS 22,136712091,QLP,82,7298,0.4014,12.295445,1.00367,Y*O,B8,"10% dip with 1-2% amplitude oscillations, slightly fuzzy"
+VOS 22,136712091,QLP,83,7298,0.4014,12.295445,1.00367,Y*O,B8,"10% dip and amplitude of 0.5-1%, slightly fuzzy"
+VOS 522,138670679,QLP,15,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"Quasi periodic with 1% amplitude, jagged, three strong pulsations in low freq periodogram"
+VOS 522,138670679,QLP,16,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"Quasi periodic with 1% amplitude, jagged"
+VOS 522,138670679,QLP,55,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"~0.2% amplitude, overall amplitude ~2%, very fuzzy, three peaks in low freq periodogram"
+VOS 522,138670679,QLP,56,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"~0.2% amplitude, very fuzzy, three peaks in low freq periodogram"
+VOS 522,138670679,QLP,76,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"Amplitude ~2% oscillations, fuzzy, three peaks in low freq periodogram"
+VOS 522,138670679,QLP,82,7647.7,1.3289,12.929551,1.047293,Y*O,F1,Amplitude ~1% and 2% dip
+VOS 522,138670679,QLP,83,7647.7,1.3289,12.929551,1.047293,Y*O,F1,"Amplitude ~1% oscillations and 2% dip, fuzzy, three peaks in low freq periodogram"
+HD 288012,138941394,TESS-SPOC,6,9727.7,2.903,9.656052,0.073438,**,A2-A3,"Amplitude 4-6%, smooth, flattened light curve is really flat"
+HD 288012,138941394,TESS-SPOC,32,9727.7,2.903,9.656052,0.073438,**,A2-A3,"Amplitude 4-6% with 8% dip, smooth, flattened light curve is really flat"
+VOS 336,139019368,QLP,15,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude 1-2% and 5% dip, second peak in periodogram at 1"
+VOS 336,139019368,QLP,16,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude ~2% with 12% dip, bumpy high freq periodogram"
+VOS 336,139019368,QLP,56,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude ~2% with 10-12% dips, bumpy high freq periodogram"
+VOS 336,139019368,QLP,76,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude ~2% with 12% dip, fuzzy, peak in periodogram at 0.5"
+VOS 336,139019368,QLP,82,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude 2-5%, fuzzy, peak in periodogram at 0.5"
+VOS 336,139019368,QLP,83,5671,1.4412,12.836536,1.554043,Y*O,F6-G4,"Amplitude ~5% with 20% dip, fuzzy, peak in periodogram at 0 and 0.5"
+HD 59319,139715411,TESS-SPOC,7,11942,1.4208,8.294557,-0.084863,Or*,B7-B8,"Periodic oscillation with amplitude 0.4%, peak in periodogram right above 1"
+HD 59319,139715411,TESS-SPOC,34,11942,1.4208,8.294557,-0.084863,Or*,B7-B8,"Periodic oscillation with amplitude 0.4%, peak in periodogram right above 1"
+HD 319896,163268072,QLP,12,7934,0.7429,10.66298,1.033203,Or*,B4-B5,"Periodic oscillation with amplitude 0.3-0.4%, peak in periodogram right above 1"
+HD 319896,163268072,QLP,39,7934,0.7429,10.66298,1.033203,Or*,B4-B5,"Periodic oscillation with amplitude 0.3-0.4%, peak in periodogram right above 1"
+HD 319896,163268072,QLP,66,7934,0.7429,10.66298,1.033203,Or*,B4-B5,"Periodic oscillation with amplitude 1%, peak in periodogram right above 1 and 3"
+HD 319896,163268072,QLP,93,7934,0.7429,10.66298,1.033203,Or*,B4-B5,"Periodic oscillation with amplitude 2%, peak in periodogram right above 1 and 3"
+PDS 69,166896955,SPOC,11,7625,1.4816,10.236468,0.463189,**,B4-B5,"Overall 6% amplitude with 1% smaller amplitude, slightly fuzzy"
+PDS 241,168627773,QLP,7,17119.5,0.1682,12.025613,1.057179,Or*,B1,"8% and 5% dips periodically, many peaks between 0-5 in periodogram"
+PDS 241,168627773,QLP,33,17119.5,0.1682,12.025613,1.057179,Or*,B1,"8% and 5% dips periodically, many peaks between 0-5 in periodogram"
+PDS 241,168627773,QLP,87,17119.5,0.1682,12.025613,1.057179,Or*,B1,"10% and 15% dips periodically, many peaks between 0-5 in periodogram"
+VOS 703,178486401,QLP,7,6457.9,0.8138,12.834954,1.165551,Y*O,F1-F6,"Dips of 1, 2, and 4%, tiny movements"
+VOS 703,178486401,QLP,33,6457.9,0.8138,12.834954,1.165551,Y*O,F1-F6,"Dips of 4% with 0.5% smaller amplitude, tiny movements"
+VOS 703,178486401,QLP,87,6457.9,0.8138,12.834954,1.165551,Y*O,F1-F6,"Dips of 1, 2, and 4%, fuzzy"
+V388 Vel,181142391,,,5405*,0.4346,15.589075,2.436924,Ae*,B9,
+VOS 1331,189283710,QLP,15,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,"Amplitude 4% with 10% dip, jagged, slight peak in periodogram above 2"
+VOS 1331,189283710,QLP,41,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,"Amplitude 0.25% with 5% overall amplitude, jagged"
+VOS 1331,189283710,QLP,55,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,Amplitude 5% with 2.5% smaller bumps
+VOS 1331,189283710,QLP,56,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,"Amplitude 0.25% with 0.5% overall amplitude, jagged, small spike in periodogram at 2"
+VOS 1331,189283710,QLP,75,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,"Amplitude 5% with 20% overall increase, periodogram peaks above 2"
+VOS 1331,189283710,QLP,76,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,Bigger amplitude 15% with 5% smaller amplitude
+VOS 1331,189283710,QLP,82,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,Amplitude 2% with 10% dip then 20% overall increase
+VOS 1331,189283710,QLP,83,5595.7,0.6793,13.667015,2.287836,Y*O,B0.5,Amplitude 2% then 20% overall increase
+VOS 111,189286260,QLP,15,5029,0.6961,14.365152,2.003164,LP*,A0,"20% dip, amplitude ~2.5%, smooth overall shape with slightly jagged"
+VOS 111,189286260,QLP,41,5029,0.6961,14.365152,2.003164,LP*,A0,"Decrease overall of 15%, bumps of 3%, jagged"
+VOS 111,189286260,QLP,55,5029,0.6961,14.365152,2.003164,LP*,A0,"Overall amplitude ~2% with 0.5% bumps along the way, fuzzy"
+VOS 111,189286260,QLP,56,5029,0.6961,14.365152,2.003164,LP*,A0,"Overall amplitude ~2% with 0.5% bumps along the way, fuzzy"
+VOS 111,189286260,QLP,75,5029,0.6961,14.365152,2.003164,LP*,A0,"Overall amplitude ~2% with 0.5% bumps along the way, fuzzy"
+VOS 111,189286260,QLP,76,5029,0.6961,14.365152,2.003164,LP*,A0,"Overall amplitude ~2% with 0.5% bumps along the way and 6% dip, fuzzy"
+VOS 111,189286260,QLP,82,5029,0.6961,14.365152,2.003164,LP*,A0,2% decrease overall with 4% bump
+VOS 111,189286260,QLP,83,5029,0.6961,14.365152,2.003164,LP*,A0,"4% increase at beginning, then relatively flat with 2% variations"
+VOS 4,190255749,QLP,8,6532.9,1.0369,13.200563,0.802804,Y*O,A0,"10-20% dips, jagged"
+VOS 4,190255749,QLP,9,6532.9,1.0369,13.200563,0.802804,Y*O,A0,"10-20% dips and 5% amplitude, jagged"
+VOS 4,190255749,QLP,35,6532.9,1.0369,13.200563,0.802804,Y*O,A0,"10-15% dips, decreasing by 20% at end"
+VOS 4,190255749,QLP,62,6532.9,1.0369,13.200563,0.802804,Y*O,A0,
+VOS 4,190255749,QLP,89,6532.9,1.0369,13.200563,0.802804,Y*O,A0,
+V351 Ori,199967382,SPOC,6,7687.3,3.0694,8.923279,0.550296,Ae*,A7-A9,
+VY Mon,207044437,QLP,6,10089.7,3.171,13.959769,2.847522,Ae*,B6-B7,
+VY Mon,207044437,QLP,33,10089.7,3.171,13.959769,2.847522,Ae*,B6-B7,
+VY Mon,207044437,QLP,87,10089.7,3.171,13.959769,2.847522,Ae*,B6-B7,
+HBC 222,220322651,TESS-SPOC,6,5778,1.385,11.884166,0.816879,TT*,F3-F6,
+HBC 222,220322651,TESS-SPOC,33,5778,1.385,11.884166,0.816879,TT*,F3-F6,
+HD 259431,229340364,QLP,6,6406,1.5304,8.695992,0.682612,Ae*,B7,
+HD 259431,229340364,QLP,33,6406,1.5304,8.695992,0.682612,Ae*,B7,
+HD 259431,229340364,QLP,87,6406,1.5304,8.695992,0.682612,Ae*,B7,
+TY CrA,254045303,TESS-SPOC,13,6928,6.2851,9.232023,1.091164,Ae*,B8,
+TY CrA,254045303,TESS-SPOC,67,6928,6.2851,9.232023,1.091164,Ae*,B8,
+HD 142527,255191560,SPOC,12,5807,6.2791,8.114528,1.004234,Ae*,F2-F3,
+HD 142527,255191560,SPOC,65,5807,6.2791,8.114528,1.004234,Ae*,F2-F3,
+VOS 84,261539498,QLP,19,7093.9,0.8322,13.33572,0.919014,Y*O,A8,
+VOS 2047,265290711,QLP,18,5475,0.2903,13.098687,1.12611,Y*O,B9.5,
+VOS 2047,265290711,QLP,58,5475,0.2903,13.098687,1.12611,Y*O,B9.5,
+VOS 2047,265290711,QLP,85,5475,0.2903,13.098687,1.12611,Y*O,B9.5,
+VOS 2047,265290711,QLP,86,5475,0.2903,13.098687,1.12611,Y*O,B9.5,
+VOS 200,266773096,QLP,19,5749,0.3923,12.931384,1.603399,Y*O,A0,
+VOS 200,266773096,QLP,59,5749,0.3923,12.931384,1.603399,Y*O,A0,
+VOS 200,266773096,QLP,86,5749,0.3923,12.931384,1.603399,Y*O,A0,
+MWC 1080,269112596,SPOC,57,4156,0.6713,10.925151,2.184708,Ae*,B0,
+MWC 1080,269112596,SPOC,58,4156,0.6713,10.925151,2.184708,Ae*,B0,
+MWC 1080,269112596,SPOC,77,4156,0.6713,10.925151,2.184708,Ae*,B0,
+MWC 1080,269112596,SPOC,78,4156,0.6713,10.925151,2.184708,Ae*,B0,
+VOS 42,272142683,QLP,17,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,18,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,24,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,57,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,58,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,77,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,78,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,84,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+VOS 42,272142683,QLP,85,6106.1,1.2777,13.095105,1.856038,Mi*,B,
+HD 98922,272956728,SPOC,63,9120,1.5364,6.730214,0.171003,Be*,B8-B9,
+HD 98922,272956728,SPOC,64,9120,1.5364,6.730214,0.171003,Be*,B8-B9,
+VOS 898,272995440,QLP,19,7036,0.4339,12.926794,1.326455,Y*O,A0,
+VOS 898,272995440,QLP,59,7036,0.4339,12.926794,1.326455,Y*O,A0,
+VOS 898,272995440,QLP,86,7036,0.4339,12.926794,1.326455,Y*O,A0,
+HD 290770,276661825,SPOC,6,10034,2.5194,9.214877,0.089149,Or*,B8,
+HD 290770,276661825,SPOC,32,10034,2.5194,9.214877,0.089149,Or*,B8,
+HD 100546,280773136,SPOC,37,9307.1,9.2494,6.685849,0.051051,Be*,A0-A1,
+HD 100546,280773136,SPOC,38,9307.1,9.2494,6.685849,0.051051,Be*,A0-A1,
+HD 100546,280773136,SPOC,64,9307.1,9.2494,6.685849,0.051051,Be*,A0-A1,
+HD 100546,280773136,SPOC,65,9307.1,9.2494,6.685849,0.051051,Be*,A0-A1,
+HD 100546,280773136,SPOC,100,9307.1,9.2494,6.685849,0.051051,Be*,A0-A1,
+PDS 229N,283096205,QLP,6,4766,-1.1811,13.507894,0.992456,**,B7,
+PDS 229N,283096205,QLP,33,4766,-1.1811,13.507894,0.992456,**,B7,
+PDS 229N,283096205,QLP,87,4766,-1.1811,13.507894,0.992456,**,B7,
+VOS 70,284214915,QLP,17,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 70,284214915,QLP,18,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 70,284214915,QLP,24,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 70,284214915,QLP,58,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 70,284214915,QLP,78,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 70,284214915,QLP,85,4723,0.8561,12.907528,2.117201,Or*,A7,
+VOS 588,286322252,QLP,19,7694,0.4333,12.962005,1.195202,Be*,B8,
+VOS 588,286322252,QLP,58,7694,0.4333,12.962005,1.195202,Be*,B8,
+VOS 588,286322252,QLP,59,7694,0.4333,12.962005,1.195202,Be*,B8,
+VOS 588,286322252,QLP,86,7694,0.4333,12.962005,1.195202,Be*,B8,
+HD 37258,287757971,TESS-SPOC,6,8680,2.6319,9.631053,0.194995,Ae*,A0-A1,
+VOS 69,288924907,TESS-SPOC,15,6835,1.4353,13.883293,1.406397,Or*,A3,
+VOS 69,288924907,TESS-SPOC,16,6835,1.4353,13.883293,1.406397,Or*,A3,
+VOS 69,288924907,TESS-SPOC,55,6835,1.4353,13.883293,1.406397,Or*,A3,
+LkHa 324,290064548,TESS-SPOC,15,6571,1.607,12.209738,1.617393,Ae*,B7-B8,
+LkHa 324,290064548,TESS-SPOC,16,6571,1.607,12.209738,1.617393,Ae*,B7-B8,
+LkHa 324,290064548,TESS-SPOC,55,6571,1.607,12.209738,1.617393,Ae*,B7-B8,
+Hen 3-1121S,293537745,QLP,12,5011,0.5172,11.08054,1.166385,Ae*,O-B0,
+Hen 3-1121S,293537745,QLP,39,5011,0.5172,11.08054,1.166385,Ae*,O-B0,
+Hen 3-1121S,293537745,QLP,65,5011,0.5172,11.08054,1.166385,Ae*,O-B0,
+V2019 Cyg,297154074,QLP,15,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,41,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,55,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,56,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,75,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,76,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,82,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+V2019 Cyg,297154074,QLP,83,6485.1,1.173,11.033224,1.058733,Ae*,B8,
+Hen 3-938,299797908,QLP,11,13171,0.1718,12.377528,2.125158,s*b,B0-B1,
+Hen 3-938,299797908,QLP,38,13171,0.1718,12.377528,2.125158,s*b,B0-B2,
+Hen 3-938,299797908,QLP,65,13171,0.1718,12.377528,2.125158,s*b,B0-B3,
+Hen 3-938,299797908,QLP,99,13171,0.1718,12.377528,2.125158,s*b,B0-B4,
+Hen 3-938,299797908,QLP,100,13171,0.1718,12.377528,2.125158,s*b,B0-B5,
+Hen 3-938,299797908,QLP,101,13171,0.1718,12.377528,2.125158,s*b,B0-B6,
+HD 36408,302824830,SPOC,6,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 36408,302824830,SPOC,43,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 36408,302824830,SPOC,44,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 36408,302824830,SPOC,45,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 36408,302824830,SPOC,71,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 36408,302824830,SPOC,98,10768,2.8515,6.062156,0.033025,Be*,B6-B7,
+HD 96042,305447083,SPOC,63,5596,0.3573,8.428286,0.208593,Y*O,B0,
+HD 96042,305447083,SPOC,64,5596,0.3573,8.428286,0.208593,Y*O,B0,
+HD 96042,305447083,SPOC,90,5596,0.3573,8.428286,0.208593,Y*O,B0,
+HD 96042,305447083,SPOC,99,5596,0.3573,8.428286,0.208593,Y*O,B0,
+HD 96042,305447083,SPOC,100,5596,0.3573,8.428286,0.208593,Y*O,B0,
+GSC 1876-0892,309449806,QLP,43,5034,0.1809,13.812414,2.099655,Or*,B4,
+GSC 1876-0892,309449806,QLP,44,5034,0.1809,13.812414,2.099655,Or*,B4,
+GSC 1876-0892,309449806,QLP,71,5034,0.1809,13.812414,2.099655,Or*,B4,
+GSC 1876-0892,309449806,QLP,72,5034,0.1809,13.812414,2.099655,Or*,B4,
+VOS 32,311826580,,,,0.8317,14.577346,2.034157,LP*,G0,
+VOS 250,312493387,QLP,14,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,15,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,41,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,54,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,55,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,75,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,81,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 250,312493387,QLP,82,11785,0.8677,12.770996,0.737338,Y*O,A3,
+VOS 290,317789227,QLP,10,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,11,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,37,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,38,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,64,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,99,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 290,317789227,QLP,100,4508,0.3525,12.878792,1.323887,Y*O,B2,
+VOS 1336,319939254,QLP,10,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,11,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,37,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,38,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,64,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,99,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+VOS 1336,319939254,QLP,100,6767.2,0.41,13.400743,1.061123,**,B2.5-B9.5,
+HD 101412,320547523,SPOC,37,8227,2.4262,9.216021,0.294794,Be*,B9-A0,
+HD 101412,320547523,SPOC,38,8227,2.4262,9.216021,0.294794,Be*,B9-A0,
+V361 Cep,322312832,SPOC,16,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,17,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,18,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,24,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,57,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,58,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,76,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,77,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,78,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,83,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,84,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+V361 Cep,322312832,SPOC,85,5793.6,1.119,9.929882,0.748085,Ae*,B4,
+HD 37357,332856261,SPOC,6,3087,2.1466,8.856716,0.184221,Ae*,B9,
+HD 37357,332856261,SPOC,32,3087,2.1466,8.856716,0.184221,Ae*,B9,
+VOS 48,335623526,QLP,16,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,17,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,24,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,56,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,57,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,76,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,77,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,83,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,84,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 48,335623526,QLP,85,6038,1.0814,14.007549,1.682296,Y*O,G0,
+VOS 1245,336518731,QLP,11,4210,0.562,13.930675,0.95651,Y*O,A0,
+VOS 1245,336518731,QLP,12,4210,0.562,13.930675,0.95651,Y*O,A0,
+AK Sco,339989392,SPOC,12,5641,7.1543,9.064188,0.927548,Ae*,F5,
+AK Sco,339989392,SPOC,39,5641,7.1543,9.064188,0.927548,Ae*,F6,
+AK Sco,339989392,SPOC,66,5641,7.1543,9.064188,0.927548,Ae*,F7,
+AK Sco,339989392,SPOC,93,5641,7.1543,9.064188,0.927548,Ae*,F8,
+VOS 475,341984965,QLP,16,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,17,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,56,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,57,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,76,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,77,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,83,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+VOS 475,341984965,QLP,84,8902,0.2377,13.171373,0.38134,Y*O,B9.5,
+BD+30 549,349354945,SPOC,85,14207,3.4802,10.32428,0.957591,Or*,B8,
+GSC 8581-2002,355320922,QLP,8,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,9,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,10,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,35,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,37,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,62,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,63,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,64,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,89,8733,1.8644,10.723349,0.383466,Or*,B9,
+GSC 8581-2002,355320922,QLP,90,8733,1.8644,10.723349,0.383466,Or*,B9,
+VOS 481,355676575,TESS-SPOC,41,6334,1.8835,13.294857,1.524037,Y*O,F6-G4,
+VOS 481,355676575,TESS-SPOC,54,6334,1.8835,13.294857,1.524037,Y*O,F6-G4,
+HBC 705,356608297,QLP,15,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,55,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,56,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,75,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,76,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,82,6509,0.4252,13.455818,2.243868,Ae*,B2,
+HBC 705,356608297,QLP,83,6509,0.4252,13.455818,2.243868,Ae*,B2,
+UCAC4 552-019438,358568109,TESS-SPOC,44,7150,0.6999,12.749857,1.072755,Y*O,B7-B8,
+UCAC4 552-019438,358568109,TESS-SPOC,45,7150,0.6999,12.749857,1.072755,Y*O,B7-B8,
+VOS 35,358901633,QLP,17,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,18,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,24,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,57,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,58,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,77,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,78,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,84,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 35,358901633,QLP,85,5567,1.3632,13.286403,1.630845,Y*O,F,
+VOS 105,362789897,QLP,14,4329,0.4941,14.43136,1.876401,Y*O,F5,
+VOS 105,362789897,QLP,40,4329,0.4941,14.43136,1.876401,Y*O,F5,
+VOS 105,362789897,QLP,41,4329,0.4941,14.43136,1.876401,Y*O,F5,
+VOS 105,362789897,QLP,54,4329,0.4941,14.43136,1.876401,Y*O,F5,
+CO Ori,365776906,TESS-SPOC,71,5291,2.5049,11.086226,1.484228,Or*,F3-F6,
+V1977 Cyg,367036276,TESS-SPOC,56,9756,1.1987,10.703158,1.074207,Ae*,B8,
+V1977 Cyg,367036276,TESS-SPOC,75,9756,1.1987,10.703158,1.074207,Ae*,B8,
+V1977 Cyg,367036276,TESS-SPOC,76,9756,1.1987,10.703158,1.074207,Ae*,B8,
+V1977 Cyg,367036276,TESS-SPOC,82,9756,1.1987,10.703158,1.074207,Ae*,B8,
+V1977 Cyg,367036276,TESS-SPOC,83,9756,1.1987,10.703158,1.074207,Ae*,B8,
+Hen 3-823,369496705,TESS-SPOC,64,10902,0.6456,10.234678,0.409578,Ae*,B4,
+VOS 1026,377617067,QLP,17,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,24,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,57,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,58,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,77,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,78,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,84,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 1026,377617067,QLP,85,6059,0.3368,12.135482,0.699469,Y*O,B0.5,
+VOS 672,377893466,QLP,17,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,24,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,57,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,58,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,77,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,78,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,84,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+VOS 672,377893466,QLP,85,5340,0.289,13.234411,1.604283,Y*O,B1.5-B8,
+HD 58647,386040374,QLP,7,8851,3.2831,6.779404,0.143508,Or*,B8,
+HD 58647,386040374,QLP,34,8851,3.2831,6.779404,0.143508,Or*,B8,
+HD 58647,386040374,QLP,87,8851,3.2831,6.779404,0.143508,Or*,B8,
+HD 58647,386040374,QLP,88,8851,3.2831,6.779404,0.143508,Or*,B8,
+HD 200775,387813185,SPOC,16,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,18,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,24,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,25,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,52,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,56,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,57,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,58,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,76,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,77,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,78,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,83,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,84,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,85,6175,2.8175,7.179865,0.722841,Ae*,B4,
+HD 200775,387813185,SPOC,86,6175,2.8175,7.179865,0.722841,Ae*,B4,
+MWC 655,388143588,SPOC,57,8562,0.5118,9.168422,0.709086,Be*,B2-B3,
+MWC 655,388143588,SPOC,77,8562,0.5118,9.168422,0.709086,Be*,B2-B3,
+MWC 655,388143588,SPOC,84,8562,0.5118,9.168422,0.709086,Be*,B2-B3,
+V380 Ori,388935225,SPOC,6,3206,2.6425,10.525793,1.517498,Ae*,B9,
+V380 Ori,388935225,SPOC,32,3206,2.6425,10.525793,1.517498,Ae*,B9,
+VOS 759,395172881,QLP,15,6463,1.232,12.250196,1.035078,Y*O,A8,
+VOS 759,395172881,QLP,16,6463,1.232,12.250196,1.035078,Y*O,A8,
+VOS 759,395172881,QLP,56,6463,1.232,12.250196,1.035078,Y*O,A8,
+VOS 759,395172881,QLP,76,6463,1.232,12.250196,1.035078,Y*O,A8,
+HD 179218,396284614,SPOC,40,10120,3.8448,7.372153,0.138811,Ae*,B9,
+HD 179218,396284614,SPOC,54,10120,3.8448,7.372153,0.138811,Ae*,B9,
+HD 179218,396284614,SPOC,80,10120,3.8448,7.372153,0.138811,Ae*,B9,
+HD 179218,396284614,SPOC,81,10120,3.8448,7.372153,0.138811,Ae*,B9,
+MQ Cas,396300742,SPOC,77,3099,1.3094,13.87631,0.932791,Or*,B9,
+MQ Cas,396300742,SPOC,78,3099,1.3094,13.87631,0.932791,Or*,B9,
+GSC 3975-0579,401214336,TESS-SPOC,16,8768,1.0583,11.491503,0.504811,Or*,A0-A1,
+GSC 3975-0579,401214336,TESS-SPOC,17,8768,1.0583,11.491503,0.504811,Or*,A0-A1,
+VOS 199,408081161,QLP,14,6820,0.9513,13.093594,0.711534,Y*O,F1,
+VOS 199,408081161,QLP,41,6820,0.9513,13.093594,0.711534,Y*O,F1,
+VOS 199,408081161,QLP,54,6820,0.9513,13.093594,0.711534,Y*O,F1,
+VOS 199,408081161,QLP,81,6820,0.9513,13.093594,0.711534,Y*O,F1,
+PDS 27,409323949,QLP,7,4046,0.3867,12.815218,2.283444,Ae*,B4-B5,
+PDS 27,409323949,QLP,33,4046,0.3867,12.815218,2.283444,Ae*,B4-B5,
+PDS 27,409323949,QLP,34,4046,0.3867,12.815218,2.283444,Ae*,B4-B5,
+PDS 27,409323949,QLP,87,4046,0.3867,12.815218,2.283444,Ae*,B4-B5,
+PDS 27,409323949,QLP,88,4046,0.3867,12.815218,2.283444,Ae*,B4-B5,
+WRAY 15-1435,409406992,QLP,12,6286,0.3976,12.34059,1.611987,Ae*,B2-B3,
+WRAY 15-1435,409406992,QLP,39,6286,0.3976,12.34059,1.611987,Ae*,B2-B3,
+WRAY 15-1435,409406992,QLP,65,6286,0.3976,12.34059,1.611987,Ae*,B2-B3,
+VOS 934,410736126,QLP,18,7208,0.5008,12.545625,1.203676,Y*O,A2,
+VOS 934,410736126,QLP,59,7208,0.5008,12.545625,1.203676,Y*O,A2,
+VOS 934,410736126,QLP,86,7208,0.5008,12.545625,1.203676,Y*O,A2,
+VOS 911,410951921,QLP,12,6004,0.3393,12.46088,0.833817,Y*O,B2-B4,
+VOS 911,410951921,QLP,39,6004,0.3393,12.46088,0.833817,Y*O,B2-B4,
+VOS 473,412645923,TESS-SPOC,16,8704,1.0981,12.445158,0.567841,Y*O,A0,
+VOS 473,412645923,TESS-SPOC,17,8704,1.0981,12.445158,0.567841,Y*O,A0,
+V594 Cas,420018149,SPOC,58,6991,1.7921,10.266892,1.02737,Ae*,B7-B8,
+V594 Cas,420018149,SPOC,78,6991,1.7921,10.266892,1.02737,Ae*,B7-B8,
+V594 Cas,420018149,SPOC,85,6991,1.7921,10.266892,1.02737,Ae*,B7-B8,
+VOS 1126,420307432,QLP,17,6306,0.3004,13.148563,1.239166,Y*O,B2,
+VOS 1126,420307432,QLP,24,6306,0.3004,13.148563,1.239166,Y*O,B2,
+VOS 1126,420307432,QLP,57,6306,0.3004,13.148563,1.239166,Y*O,B2,
+VOS 1126,420307432,QLP,77,6306,0.3004,13.148563,1.239166,Y*O,B2,
+VOS 1126,420307432,QLP,84,6306,0.3004,13.148563,1.239166,Y*O,B2,
+VOS 1126,420307432,QLP,85,6306,0.3004,13.148563,1.239166,Y*O,B2,
+HBC 442,427352999,TESS-SPOC,6,6312,2.5829,10.074726,0.784991,Or*,F8,
+HBC 442,427352999,TESS-SPOC,32,6312,2.5829,10.074726,0.784991,Or*,F8,
+HD 36917,427373765,QLP,6,9664,2.22,7.961615,0.37739,Or*,B8,
+HD 36917,427373765,QLP,32,9664,2.22,7.961615,0.37739,Or*,B8,
+HD 36917,427373765,QLP,98,9664,2.22,7.961615,0.37739,Or*,B8,
+HD 36982,427395300,SPOC,32,3971,2.4489,8.34164,0.300551,Or*,B2,
+PDS 4,427577547,TESS-SPOC,18,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,42,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,43,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,44,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,58,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,70,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+PDS 4,427577547,TESS-SPOC,71,7466,2.5405,10.57882,0.544682,Or*,B9-A0,
+AS 477,427938329,SPOC,56,5883,1.3001,10.010234,0.67308,Ae*,B8-B9,
+AS 477,427938329,SPOC,76,5883,1.3001,10.010234,0.67308,Ae*,B8-B9,
+AS 477,427938329,SPOC,83,5883,1.3001,10.010234,0.67308,Ae*,B8-B9,
+VX Cas,428476066,SPOC,78,7854,1.8537,11.381415,0.493629,Ae*,B9,
+VOS 121,430006517,QLP,16,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,17,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,56,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,57,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,76,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,77,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,83,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 121,430006517,QLP,84,7933,1.0765,13.19431,0.918087,Ae*,B9.5,
+VOS 274,434633379,QLP,17,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,18,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,24,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,57,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,58,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,78,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,84,7085,1.2441,13.027586,1.069039,LP*,A3,
+VOS 274,434633379,QLP,85,7085,1.2441,13.027586,1.069039,LP*,A3,
+V374 Cep,434972921,SPOC,57,7674,1.1893,10.264091,1.25106,Ae*,B3-B5,
+V374 Cep,434972921,SPOC,58,7674,1.1893,10.264091,1.25106,Ae*,B3-B5,
+V374 Cep,434972921,SPOC,77,7674,1.1893,10.264091,1.25106,Ae*,B3-B5,
+HD 245185,436098606,TESS-SPOC,6,11316,2.4087,9.855999,0.162644,Ae*,B9,
+MWC 137,437994564,SPOC,6,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,33,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,43,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,44,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,45,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,71,4754,0.194,11.177768,1.857129,Ae*,B1,
+MWC 137,437994564,SPOC,72,4754,0.194,11.177768,1.857129,Ae*,B1,
+HD 17081,441152806,SPOC,4,12623,8.4022,4.205342,-0.140389,SB*,B7,
+HD 17081,441152806,SPOC,31,12623,8.4022,4.205342,-0.140389,SB*,B7,
+PDS 297,441744490,QLP,9,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,10,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,36,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,37,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,62,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,64,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,89,7719,0.5919,11.952871,0.500562,Or*,B8,
+PDS 297,441744490,QLP,90,7719,0.5919,11.952871,0.500562,Or*,B8,
+VOS 787,444356276,QLP,17,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+VOS 787,444356276,QLP,18,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+VOS 787,444356276,QLP,24,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+VOS 787,444356276,QLP,58,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+VOS 787,444356276,QLP,78,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+VOS 787,444356276,QLP,85,10567,0.2397,13.430403,1.128944,Y*O,B1.5,
+HD 34700,449260863,TESS-SPOC,32,6242,2.8532,9.038646,0.757983,Or*,G0,
+VOS 104,452248316,SPOC,75,6371,1.2235,12.792563,1.025302,Y*O,A2,
+VOS 104,452248316,SPOC,81,6371,1.2235,12.792563,1.025302,Y*O,A2,
+DG Cir,454215115,QLP,12,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+DG Cir,454215115,QLP,38,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+DG Cir,454215115,QLP,39,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+DG Cir,454215115,QLP,65,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+DG Cir,454215115,QLP,100,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+DG Cir,454215115,QLP,101,4502,1.1586,12.52597,1.879089,Ae*,A2-A3,
+HD 132947,454274408,QLP,12,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 132947,454274408,QLP,38,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 132947,454274408,QLP,39,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 132947,454274408,QLP,99,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 132947,454274408,QLP,100,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 132947,454274408,QLP,101,13868,2.632,8.902752,0.085302,Or*,B8-B9,
+HD 97048,454291762,SPOC,64,10889,5.4228,8.352166,0.600166,Ae*,B8,
+HD 97048,454291762,SPOC,66,10889,5.4228,8.352166,0.600166,Ae*,B8,
+HD 97048,454291762,SPOC,93,10889,5.4228,8.352166,0.600166,Ae*,B8,
+LkHa 257,455573060,QLP,16,6456,1.2482,13.046227,1.050835,Ae*,A1-A2,
+LkHa 257,455573060,QLP,56,6456,1.2482,13.046227,1.050835,Ae*,A1-A2,
+LkHa 257,455573060,QLP,76,6456,1.2482,13.046227,1.050835,Ae*,A1-A2,
+LkHa 257,455573060,QLP,83,6456,1.2482,13.046227,1.050835,Ae*,A1-A2,
+VOS 56,456030854,QLP,18,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,24,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,57,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,58,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,77,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,78,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,84,6928,1.1109,13.714125,1.304226,**,A4,
+VOS 56,456030854,QLP,85,6928,1.1109,13.714125,1.304226,**,A4,
+HD 290409,457231768,TESS-SPOC,6,8785,2.4443,9.964387,0.173249,Or*,B9,
+HD 290409,457231768,TESS-SPOC,32,8785,2.4443,9.964387,0.173249,Or*,B9,
+PDS 322,459571845,QLP,36,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,37,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,63,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,64,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,90,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,99,7926,0.2381,12.029991,0.360342,Or*,B2,
+PDS 322,459571845,QLP,100,7926,0.2381,12.029991,0.360342,Or*,B2,
+HD 94509,459699513,SPOC,63,14553,0.6096,9.132844,0.072871,Be*,B7,
+HD 94509,459699513,SPOC,64,14553,0.6096,9.132844,0.072871,Be*,B7,
+HD 305298,460571412,QLP,10,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,11,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,36,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,37,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,63,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,64,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,90,9207,0.215,10.780341,0.387756,Or*,O,
+HD 305298,460571412,QLP,99,9207,0.215,10.780341,0.387756,Or*,O,
+HD 87643,462436722,TESS-SPOC,63,10145,0.6293,8.709893,1.389318,Or*,B4,
+HD 87643,462436722,TESS-SPOC,64,10145,0.6293,8.709893,1.389318,Or*,B4,
+PDS 37,462878642,QLP,9,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,10,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,36,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,37,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,63,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,64,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,90,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+PDS 37,462878642,QLP,99,6273,0.6142,12.695196,2.362153,Or*,B2-B3,
+MWC 878,463597276,TESS-SPOC,66,7472,0.5271,10.2412,1.213756,Ae*,B0,
+HD 323771,465196254,QLP,12,12747,0.9105,10.989243,0.595865,Or*,B5-B6,
+HD 323771,465196254,QLP,39,12747,0.9105,10.989243,0.595865,Or*,B5-B6,
+HD 323771,465196254,QLP,66,12747,0.9105,10.989243,0.595865,Or*,B5-B6,
+HD 323771,465196254,QLP,93,12747,0.9105,10.989243,0.595865,Or*,B5-B6,
+PDS 324,465790701,QLP,10,4036,0.2564,14.210133,1.429339,Or*,B2-B3,
+PDS 324,465790701,QLP,11,4036,0.2564,14.210133,1.429339,Or*,B2-B3,
+SV Cep,467356861,SPOC,77,6625,2.9257,10.36279,0.637604,Ae*,A3-A4,
+SV Cep,467356861,SPOC,79,6625,2.9257,10.36279,0.637604,Ae*,A3-A4,
+XY Per A,642035133,QLP,18,8665,2.3537,9.499481,0.690922,Ae*,B9,
+XY Per A,642035133,QLP,86,8665,2.3537,9.499481,0.690922,Ae*,B9,
+PDS 22,709004859,QLP,33,5766,1.4017,11.034444,0.251432,**,B9,
+PDS 22,709004859,QLP,87,5766,1.4017,11.034444,0.251432,**,B9,
+HD 76534,816058534,QLP,35,4629,1.1299,8.251668,0.283591,Be*,B2,
+HD 76534,816058534,QLP,36,4629,1.1299,8.251668,0.283591,Be*,B2,
+HD 76534,816058534,QLP,89,4629,1.1299,8.251668,0.283591,Be*,B2,
+HD 141926,1139218134,QLP,39,7072,0.7316,8.689341,0.898471,HXB,B0,
+HD 141926,1139218134,QLP,65,7072,0.7316,8.689341,0.898471,HXB,B0,
