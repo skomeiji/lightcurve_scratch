@@ -53,7 +53,7 @@ except OSError:
     mg = np.array(r["mg"])
 
 
-start_line = 682
+start_line = 973
 
 with open("StarCatalog.csv", "r", newline="") as f:
     reader = csv.reader(f)
@@ -67,6 +67,11 @@ for i, row in enumerate(rows):
     next_row = rows[i + 1] if i + 1 < len(rows) else None
 
     print(row)
+
+    # Skip rows with any empty field except the last column
+    if any(cell.strip() == "" for cell in row[:-1]):
+        print(f"Skipping row due to missing data: {row}")
+        continue
 
     # Convert numeric CSV entries from strings to floats
     star_bp_rp = float(row[7])
@@ -301,7 +306,7 @@ for i, row in enumerate(rows):
     axd["D"].set_title("Low-pass Trends")
     axd["D"].legend()
 
-    outdir = Path(f"figures/Cody/{row[0]}")
+    outdir = Path(f"figures/Lupus DECO/{row[0]}")
     outdir.mkdir(parents=True, exist_ok=True)
 
     outpath = outdir / f"{row[0]}_sec{row[3]}_{row[2]}_summary.png"
