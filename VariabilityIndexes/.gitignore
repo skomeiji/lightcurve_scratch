@@ -1,0 +1,10 @@
+dev_QM_development.ipynb
+testing_class.ipynb
+*.pyc
+data/raw
+*.DS_Store*
+\[dev\]*.ipynb
+*\[_tests_\]*.ipynb
+*.ipynb
+*.png
+*.csv
